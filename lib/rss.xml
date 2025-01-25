@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 25 Jan 2025 15:30:14 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 25 Jan 2025 15:30:08 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Case №1]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 25 Jan 2025 17:35:54 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 25 Jan 2025 17:35:45 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Case №1]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br>Приготування до гри
 
@@ -143,7 +143,7 @@
 <br>Гораціо Довсон продав годинника Маркусу Овензу
 <br><br>
 <br>можливо на чеку є відбитки
-]]></description><link>100-life\130-hobby\board-games\detective\case-№1.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Detective/Case №1.md</guid><pubDate>Wed, 22 Jan 2025 17:06:28 GMT</pubDate><enclosure url="https://antaresdatabase.com/data/images/en/KurtBlutholz.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://antaresdatabase.com/data/images/en/KurtBlutholz.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Detective MC - №2]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\detective\case-№1.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Detective/Case №1.md</guid><pubDate>Wed, 22 Jan 2025 17:06:28 GMT</pubDate><enclosure url="https://antaresdatabase.com/data/images/en/KurtBlutholz.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://antaresdatabase.com/data/images/en/KurtBlutholz.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Detective MC - №2]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br>Приготування до гри
 
@@ -596,7 +596,7 @@ There is an Absent feature. Mark a character as absent by opening the <a data-to
 <br>p: open party sheet
 <br>g: open global map
 <br>c: open scenario chart
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\miscellaneous.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Miscellaneous.md</guid><pubDate>Thu, 23 Jan 2025 18:59:53 GMT</pubDate><enclosure url="lib\media\miscellaneous-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\miscellaneous-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Scenario 0 - Introduction]]></title><description><![CDATA[ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\miscellaneous.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Miscellaneous.md</guid><pubDate>Thu, 23 Jan 2025 18:59:53 GMT</pubDate><enclosure url="lib\media\miscellaneous-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\miscellaneous-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Scenario 0 - Introduction]]></title><description><![CDATA[ 
  <br><br><br><br>Було б чудово повернутись до “Сплячого Лева”. Після двох тижнів блукання вздовж “Стоячої Річки” в пошуках зниклого коваля, ви майже відчуваєте тепло вогнища затишної таверни як тільки на горизонті з’явились стіни “Похмурої Гавані” Ви майже вдома<br>Якщо говорити відверто, справа не тільки в ковалі. Останнім часом тривожна кількість людей з бідніших районів міста раптово зникли. Зазвичай, ніхто цього не помічає. Просто ще одна бідна душа, забута в закутках цивілізації. Ковалева дружина, Сенді, навпроти, змогла нашкребти достатньо грошей, щоб найняти вас для пошуку її чоловіка. Ви не знаєте звідки ці гроші, втім, ви впевнені що вони не могли дістатись легко, що викликає подвійний біль при поверненні додому з пустими руками, без жодного результату.<br>Насправді, Сенді заплатила небагато, але ви “Щелепи Лева”, одна з найвідоміших груп найманців в цьому богом забутому містечку. Звісно, зробити благодійну справу один раз на вічність нікому не завадить. В решті решт, для того щоб отримувати достойну роботу, треба підтримувати репутацію. Це єдина причина чому ви маєте поринути в цю справу і не можете повернутись з нічим, але хоча б з мозолями на ногах.<br>Також, вам точно не варто називати її вдовою, хоча б в її присутності, принаймні поки доля коваля не підтвердиться. З іншого боку, враховуючи що ніхто із зниклих не повернувся, перспективи похмурі.<br>Як тільки ці бадьорі думки залишили вашу голову, ви помічаєте рухи попереду і одразу ж дістаєте зброю. Через те що сонце сховалось за горизонт, ви не можете розгледіти деталей, але ясно бачите хиткі барикади, що блокують дорогу далі. Ви обережно просуваєтесь вперед, як раптом позаду вас вибігають вермлінги, погрожуючи вам тупими мечами і гострими палицями.<br>Ви вимушені підмітити, що досить втомились після денних пошуків, однак, ці щури-переростки безумовно обрали не ту групу для грабунку. Ви група “Щелепи Лева” і вкінці кінців ви завжди готові показати що існує тільки один результат для будь-кого хто посміє вам погрожувати.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\scenario-0-introduction.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 0 - Introduction.md</guid><pubDate>Wed, 20 Nov 2024 10:03:42 GMT</pubDate></item><item><title><![CDATA[Scenario 1]]></title><description><![CDATA[ 
  <br><br><br><br>Дорога до “Похмурої Гавані” була довгою. А тепер, коли всі хочуть теплої їжі і м’якого ліжка, на вас напали вермлінги, від чого ви лютуєте. Ви люті настільки, що готові вбити цих брудних створінь перш ніж впадете від втоми.<br>Звісно, вермлінги мають інший план. Вони швидко перемовляються, бажаючи отримати ваші гроші і м’ясо на ваших кістках. Мерзенні штуки, реально. Краще ігнорувати їхні балачки і закінчити з ними чимшвидше.<br><br>Ви витираєте кров останнього вермлінга зі свого обличчя, а ваші думки повертаються до “Сплячого Лева”. В таверні вже точно готове рагу. Воно буде ідеально теплим і заспокіливим, прямо за воротами, так близько, ви нарешті зможете скуштувати його …<br>Раптом, вам спадає інакша думка. Для купки вермлінгів це дуже дивно, навіть нахабно, грабувати поряд з містом. Чи причетні вони до серії зникнень? Це малоймовірне припущення, але варте розслідування, особливо беручи до уваги що ця засідка не виглядає їх звичайним видом діяльності. Тут неподалік точно є гніздо і можливо вам пощастить отримати більше інформації про зниклого коваля.<br>І скарби. Було б чудово знайти скарби.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\scenario-1.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 1.md</guid><pubDate>Wed, 20 Nov 2024 10:03:42 GMT</pubDate></item><item><title><![CDATA[Scenario 2]]></title><description><![CDATA[ 
  <br><br><br><br>Сліди було добре помітні. Вермлінги ніколи не відрізнялись непомітністю. Ви прослідували за подряпинами і слідами, залишеними після волочіння тіл, поки не опинились під стінами міста.<br>Сонце ледь світить, але тут точно щось не так. Це не просто тінь на нижній частині стіни. Це діра. Вермлінги зробили собі гніздо самотужки проривши стіну. Напевно на це пішло багато часу.<br>Пригнувшись, ви спробували підкрастись ближче, але були помічені, напевно вони мають охоронців на вході. Ви чуєте пронизливий вереск, після чого з темряви з’являються інші вермлінги, розмахуючи їхньою дурною, погано зробленою зброєю.<br>У вас немає іншого вибору як захищатись. На щастя, ви знайшли в собі сили для цієї сутички, але вам точно знадобиться довгий відпочинок у ванній.<br><br>Після зачистки цього смердючого гнізда від жалюгідних створінь, ви обшукуєте кожен закуток. Міські вартові точно захочать про все дізнатись — тунелі вермлінгів в стінах міста не можуть бути безпечними. Відбиватись від таких набігів доволі складна справа.<br>Пізніше, під згнилими дерев’яними дошками, ви все-таки знаходите несподівано велику купу золота. Копирсаючись в скарбах, ви знаходите дивну записку. На ній грубо нашкрябані деталі ділових зустрічей між вермлінгами і кимось на ім’я Роланд. Вочевидь, в обмін на свіжі трупи, Роланд платив золотом. Судячи з кількості залишків, вермлінги змогли вбити декількох людей, до того як ви знищили їх.<br>Це найкраща підказка, що у вас є, тому настав час розшукати цього Роланда. Після відпочинку у «Сплячому Леві» звісно.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\scenario-2.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 2.md</guid><pubDate>Wed, 20 Nov 2024 10:03:42 GMT</pubDate></item><item><title><![CDATA[Scenario 3]]></title><description><![CDATA[ 
@@ -699,7 +699,7 @@ There is an Absent feature. Mark a character as absent by opening the <a data-to
 <br>дадати +1 до всіх атак, націленик на фігурку
 <br><a data-href="#Лікування (дія)" href="about:blank#Лікування_(дія)" class="internal-link" target="_self" rel="noopener nofollow">Лікування (дія)</a> знімає "ОТРУЄННЯ", але НЕ збільшує кількість ОЗ
 <br>якщо фігурка має "ОТРУЄННЯ" + "<a data-href="#Важка Рана" href="about:blank#Важка_Рана" class="internal-link" target="_self" rel="noopener nofollow">Важка Рана</a>", лікування знімає обидва стани, але НЕ збільшує кількість ОЗ
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\shortened-glossary.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Shortened Glossary.md</guid><pubDate>Fri, 24 Jan 2025 11:40:33 GMT</pubDate><enclosure url="lib\media\shortened-glossary-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\shortened-glossary-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[7 Wonders]]></title><description><![CDATA[ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\shortened-glossary.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Shortened Glossary.md</guid><pubDate>Fri, 24 Jan 2025 11:40:33 GMT</pubDate><enclosure url="lib\media\shortened-glossary-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\shortened-glossary-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[7 Wonders]]></title><description><![CDATA[ 
  <br><br><br>
 <a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/5380/7wonders_ua_igromag.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/5380/7wonders_ua_igromag.pdf" target="_blank">Rulebook</a>
 <br><br><br><br>]]></description><link>100-life\130-hobby\board-games\7-wonders.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/7 Wonders.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[Arkham Horror LCG]]></title><description><![CDATA[ 
@@ -842,12 +842,190 @@ per game.) may only be performed once for the group of Investigators.
 <br>Кожен монастир приносить 9 очок<br>
 Недобудовані монастирі (не оточені з усіх сторін тайлами) приносять кількість очок рівну кількості тайлів навколо
 <br>Поля приносять по 3 очка за кожне добудоване місто поряд
-]]></description><link>100-life\130-hobby\board-games\carcassoane.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Carcassoane.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[Detective MC]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\carcassoane.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Carcassoane.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[Colt Express]]></title><description><![CDATA[ 
+ <br><br><br>Rules
+<br>
+<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/2481/pravila_37115996.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/2481/pravila_37115996.pdf" target="_blank">Rulebook</a>
+<br><br><br>
+<br>Зібрати потяг - кількість вагонів = кількості гравців
+<br>Розмістити фігурку шерифа і жетон кейса всередині локомотива
+<br>Викласти колоду з 13 нейтральних куль по центру стола
+<br>Кожен гравець<br>
+<img alt="BG Colt Express-1.png" src="lib\media\bg-colt-express-1.png" style="width: 300px; max-width: 100%;">
+
+<br>обирає бандита, бере його фігурку, планшет, карти його кольору
+<br>отримує  мішечок вартістю 250 доларів
+<br>перетасовує 10 карт дій і викладає на планшет долілиць
+<br>викладає 6 карт куль у порядку зростання кількості куль
+
+
+<br>Визначити першого гравця (навмання вибравши фігурку бандита). Починаючи з першого гравця й далі за годинниковою стрілкою, гравці по черзі розміщують своїх бандитів в останньому та передостанньому вагонах поїзда.
+<br>Відібрати 5 карт раундів (з карт для 4-6 гравців) АБО 4 карти (з колоди для 2-4 гравців)<br>
+<img alt="BG Colt Express-2.png" src="lib\media\bg-colt-express-2.png" style="width: 300px; max-width: 100%;">
+<br><br><br>
+<br>Перший гравець відкриває карту раунду
+<br>На початку раунду кожен гравець тасує свою колоду і бере 6 карт на руку
+<br>Починаючи з першого гравця і далі за годинниковою стрілкою, гравці по черзі
+
+<br>кладуть горілиць (якщо не сказано інакше) одну <a data-tooltip-position="top" aria-label="Карти Дій" data-href="#Карти Дій" href="about:blank#Карти_Дій" class="internal-link" target="_self" rel="noopener nofollow">карту дії</a> з руки<br>
+АБО
+<br>беруть на руку 3 карти із своєї колоди
+
+
+<br>Фаза «Планування» завершується, коли гравці зіграють кількість ходів, указану на карті раунду.<br>Усі незіграні карти з руки кожен гравець кладе зверху своєї колоди.<br><br><img alt="BG Colt Express-8.png" src="lib\media\bg-colt-express-8.png"><br><br>Бандити можуть перебувати всередині вагонів поїзда або на даху вагонів. На початку гри жоден бандит не може перебувати на даху<br><br><br>
+<br>Перевернути колоду і по черзі виконати всі дії
+<br>Повернути всі карти дій власникам
+<br>Кожен гравець додає отримані карти куль до своєї колоди дій перед початком нового раунду
+<br>Гравець ліворуч від першого гравця стає новим першим гравцем
+<br><br><img alt="BG Colt Express-7.png" src="lib\media\bg-colt-express-7.png"><br><br><br>Гра закінчується наприкінці п’ятого раунду. Потім кожен гравець рахує вартість жетонів здобичі<br>
+<br>Якщо гравець вистреляв найбільше куль - він отримує винагороду у 1000 доларів.<br>
+Якщо таких гравців декілька - всі вони отримують бонус.
+<br>Перемагає найбагатший гравець<br>
+<br>У разі нічиєї перемагає гравець, що отримав найменшу кількість карт куль.<br>
+Якщо таких гравців кілька, то вони ділять перемогу!
+]]></description><link>100-life\130-hobby\board-games\colt-express.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Colt Express.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-colt-express-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-colt-express-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Detective MC]]></title><description><![CDATA[ 
  <br><br><br>Rules
 <br>
 <a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-detektiv.-suchasne-rozslduvannja-detective-a-modern-crime-board-game-ukranskou-movou-25549002.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-detektiv.-suchasne-rozslduvannja-detective-a-modern-crime-board-game-ukranskou-movou-25549002.pdf" target="_blank">Rulebook</a><br>
 <a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/nstrukcja-roboti-z-bazou-danix-56330031.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/nstrukcja-roboti-z-bazou-danix-56330031.pdf" target="_blank">Database guide</a>
-<br><br><br><br><br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\detective-mc.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Detective MC.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[Dune. A Game of Conquest and Diplomacy]]></title><description><![CDATA[ 
+<br><br><br><br><br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\detective-mc.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Detective MC.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[Dune Imperium]]></title><description><![CDATA[ 
+ <br><br><br>Rules
+<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=nvX9EYxQEfY&amp;t=11s" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=nvX9EYxQEfY&amp;t=11s" target="_blank">Dune: Imperium - How To Play - YouTube</a><br>
+<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/4992/dune_imperium_ua_rules.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/4992/dune_imperium_ua_rules.pdf" target="_blank">Rulebook</a><br>
+<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/4992/dune_imperium_ua_locations.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/4992/dune_imperium_ua_locations.pdf" target="_blank">Locations map</a>
+<br>
+У всьому відомому Всесвіті немає ціннішого ресурсу, аніж прянощі меланжу. Їх можна знайти лише на суворій пустельній планеті Арракіс, знаній ще як Дюна. Контроль над меланжевими родовищами став головною при-чиною конфлікту між Великими Домами Імперіуму. У цій боротьбі кожен, хто прагне могутності, шукає союзів і підтримки для збереження своїх позицій. Правлячі радники Ландсрааду. Корпорація ДАПТ з її ненаситною жагою прибутку. Далекоглядні Сестри Бене Ґессерит. Гільдія Лоцманів з її мо-нополією на міжпросторові подорожі. Незламні воїни пустелі фримени. Навіть сам Імператор не цурається цієї боротьби. За таких умов конфлікт неминучий, а його результат невизначений. Утім одне відомо напевно.Хто контролюватиме видобуток прянощів, контролюватиме Всесвіт…
+<br><br>
+<br>
+викласти ігрове поле
+
+<br>
+викласти жетони альянсів
+
+<br>
+викласти ментата
+
+<br>
+карти конфлікту
+
+<br>всі карти III
+<br>5 випадкових карт II
+<br>1 випадкова карта I
+<br>решту повернути в коробку
+
+
+<br>
+викласти карти інтриг
+
+<br>
+Колода карт імперіуму
+
+<br>
+відібрати 24 карти фонду (біла стрічка згори)<br>
+розділити на 3 колоди<br>
+<img alt="BG Dune Imperium-2.png" src="lib\media\bg-dune-imperium-2.png" style="width: 300px; max-width: 100%;">
+
+<br>
+Відібрати карти з білою стрілкою (початкова карти)
+
+<br>
+викласти 5 карт<br>
+<img alt="BG Dune Imperium-1.png" src="lib\media\bg-dune-imperium-1.png" style="width: 500px; max-width: 100%;">
+
+
+
+<br>Вартість ресурсів
+Малі жетони = 1<br>
+Великі жетони = 5
+<br>Кожен гравець обирає колір і лідера (чим більше крапочок - тим складніше грати).<br>
+<img alt="BG Dune Imperium-3.png" src="lib\media\bg-dune-imperium-3.png"><br>
+<br>1 жетон води
+<br>2 агенти на планшет лідера, 1 агент (майстер меча) поряд з полем
+<br>2диски, один на позначку 0 (1 при грі в чотирьох) на треку очок
+<br>По одному кубику на трек кожної фракції
+<br>3 кубики загонів в гарнізон, решту в запас
+<br>Маркер бою на початок (0) шкали бою мечем догори
+<br><br><img alt="BG Dune Imperium-4.png" src="lib\media\bg-dune-imperium-4.png"><br><br>
+<br>Відкрити нову карту конфлікту
+<br>Кожен гравець бере 5 карт згори своєї колоди<br>
+перетасувати скид у випадку нестачі карт
+<br><br>Починаючи з того, хто має маркер першого гравця, і далі за годинниковою стрілкою, гравці виконують по одному ходу за раз.<br><img alt="BG Dune Imperium-5.png" src="lib\media\bg-dune-imperium-5.png"><br>У свій хід ви можете виконати одну з двох дій:<br>
+відправити агента<br>
+<br>зіграти карту з руки (вибравши один з символів агента)<br>
+якщо символи відсутні - карта не може бути зіграна для відправлення агента<br>
+<img alt="BG Dune Imperium-6.png" src="lib\media\bg-dune-imperium-6.png" style="width: 100px; max-width: 100%;">
+<br>не можна відправити агента на зайняту локацію
+<br>ви повинні сплатити/задовільнити ціну/вимогу локації
+<br>ви можете застосувати ефект комірки агента зіграної карти<br>
+ефекти комірки розкриття ігноруються
+<br>розкрити карти.<br>
+<br>викласти всі карти на руці горілиць
+<br>порахувати очки переконливості
+<br>застосувати інші ефекти з комірок розкриття
+<br>Придбання карт
+
+<br>Очки переконливості використовуються під час вашого ходу "Розкрити карти" для придбання нових карт для вашої колоди.
+<br>Ви можете придбати будь-яку кількість карт (поки вистачає очок переконливості)<br>
+карту "Міжпросторова подорож" можна отримати з однойменної локації
+<br>Ціна придбання карти вказана в правому верхньому куті цієї карти.
+<br>Очки переконливості не можна зберігати. Якщо ви не використаєте ці очки під час свого ходу "Розкрити карти", то втрачаєте їх.
+<br>Придбавши карту, ви кладете її горілиць до свого скиду. Вам треба буде перетасувати її разом з рештою карт вашого скиду, коли у вашій колоді вичерпаються карти.
+<br>У Ряді Імперіуму завжди повинно бути 5 карт. Якщо їх бракує, поповніть ряд верхніми картами з колоди Імперіуму. Після придбання однієї карти ви можете потім придбати ту карту, яка її заміняє
+
+<br>Визначити силу
+
+<br>Кожен ваш загін у Зоні конфлікту дає 2 очки сили (загони у вашому гарнізоні чи запасі не дають нічого).
+<br>Кожен меч, який ви показали під час розкриття своїх карт, дає 1 очко сили.
+<br>Ви повинні мати принаймні один загін у Зоні конфлікту, щоб мати хоч якусь силу.
+<br>Перемістіть свій маркер бою на відповідну поділку на шкалі бою
+
+<br>Карти Інтриг
+Є три типи карт інтриг: задум, бій і кінець гри.
+
+<br>Ви можете зіграти карту задуму будь-коли під час свого ходу, коли відправляєте агента чи розкриваєте карти.
+<br>Ви можете грати карти бою лише під час бою.
+<br>Ви можете грати карти кінця гри лише наприкінці гри.
+
+<img alt="BG Dune Imperium-7.png" src="lib\media\bg-dune-imperium-7.png" style="width: 150px; max-width: 100%;">
+<br>Приберіть усі карти, що лежать перед вами (зіграні під час відправлення агентів і розкриття карт), і покладіть їх до свого скиду<br><br>У цій фазі відбувається бій, але спершу гравці мають можливість зіграти інтригові карти бою.<br>
+Починаючи з гравця з маркером першого гравця і далі за годинниковою стрілкою, кожен гравець, що має принаймні один загін у Зоні конфлікту<br>
+<br>може розіграти будь-яку кількість інтригових карт бою
+<br>може спасувати. Ви не зобов’язані пасувати лише тому, що пасували раніше у фазі бою
+<br>Після того як усі гравці, що беруть участь у бою, послідовно спасують, відбувається сам бій.<br>Attention
+Кілька інтригових карт бою мають ефекти, що активуються, "коли ви перемагаєте в конфлікті" Ви повинні дочекатися своєї перемоги, а потім зіграти їх
+<br>Після того як усі нагороди будуть розподілені, кожен гравець забирає свої загони із Зони конфлікту та кладе їх до свого запасу (але не до свого гарнізону)<br>Нічиї
+
+<br>за 1 місце - гравці отримують нагороду за 2 місце
+<br>за 2 місце - гравці отримують нагороду за 3 місце
+<br>за 3 місце - ніхто не отримує нічого
+
+<br>Бонуси котролю
+якщо ви перемагаєте в конфлікті та здобуваєте контроль над локацією
+
+<br>"Арракін"
+<br>"Карфаг"
+<br>"Басейн Імператора"
+
+покладіть свій маркер контролю на прапор під цією локацією (замінивши там маркер будь-якого суперника). Ви отримуєте зображений на локації бонус щоразу, коли будь-який гравець (ви також) відправляє туди агента.
+Коли відкривається карта конфлікту для локації, яку ви вже контролюєте, можете розгорнути один загін з вашого запасу в Зоні конфлікту (бонус захисту).
+<br><br>У цій фазі на деяких локаціях ігрового поля можуть накопичуватися прянощі. Перевірте кожну з трьох локацій ігрового поля із символом видобутку:<br>
+<br>"Велика рівнина"
+<br>"Басейн Гаґґа"
+<br>"Басейн Імператора"
+<br>Якщо на локації немає агента - покладіть 1 прянощі на спеціально відведене для цього місце. Ці прянощі додаються до прянощів що залишилися на цих місцях з попередніх раундів.<br><br>Перевірити умови виграшу.<br>
+Якщо ніхто не переміг:<br>
+<br>повернути Ментата на його місце (якщо його там немає);
+<br>повернути агентів  на карти своїх лідерів
+<br>передати маркер першого гравця наступному за годинниковою стрілкою гравцеві
+<br>Розпочати новий раунд з фази 1.<br><br>Наприкінці раунду, якщо будь-який гравець набрав 10 чи більше переможних очок (або якщо вичерпалася колода карт конфліктів), гра закінчується. Перемагає той, у кого найбільше переможних очок.<br>Нічия
+У разі нічиєї переможець серед претендентів визначається за такими показниками у вказаному порядку:
+
+<br>кількість прянощів
+<br>кількість соляріїв
+<br>кількість води
+<br>кількість загонів у гарнізоні.
+
+]]></description><link>100-life\130-hobby\board-games\dune-imperium.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Dune Imperium.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-dune-imperium-2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-dune-imperium-2.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dune. A Game of Conquest and Diplomacy]]></title><description><![CDATA[ 
  <br><br><br>Rules
 ]<br>
 <a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-duna-gra-pro-vynu-ta-diplomatu-dune-a-game-of-conquest-and-diplomacy-ukranskou-movou-8322199.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-duna-gra-pro-vynu-ta-diplomatu-dune-a-game-of-conquest-and-diplomacy-ukranskou-movou-8322199.pdf" target="_blank">Rulebook</a>
@@ -1087,644 +1265,7 @@ Note
 
 <br>Warning
 Перемогти раніше, ніж в 3 ході - неможливо !
-]]></description><link>100-life\130-hobby\board-games\dune.-a-game-of-conquest-and-diplomacy.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Dune. A Game of Conquest and Diplomacy.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[It's a Wonderful World]]></title><description><![CDATA[ 
- <br><br><br><br><img alt="It's a Wonderful World-7.png" src="lib\media\it's-a-wonderful-world-7.png"><br><br>Rules
-<br>
-<a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-cey-divovizhniy-svt-its-a-wonderful-world-ukranskou-movou-34737244.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-cey-divovizhniy-svt-its-a-wonderful-world-ukranskou-movou-34737244.pdf" target="_blank">Rulebook</a>
-<br><br>
-<br>Складіть ігрове поле та розмістіть жетон відстеження раундів на позначку 1.
-<br>Перетасуйте карти розвитку та сформуйте з них колоду. Розташуйте її<br>
-долілиць поруч із ігровим полем.
-<br>Розмістіть кубики ресурсів та жетони лідерів на відведених для них<br>
-місцях на ігровому полі.
-<br>Оберіть сторону карти Імперії: А чи Б (для першої гри використовуйте<br>
-сторону А). Роздайте по одній карті Імперії кожному гравцю. Гравці мають<br>
-розташувати їх однаковою стороною догори.
-<br>Заувага
-Під час партії всі гравці мають використовувати однакову сторону карт Імперії.<br>
-Для першої партії ми наполегливо рекомендуємо сторону А.
-<br>
-<br>Протягом гри ви будете розігрувати багато карток, тому підготуйте свою ігрову зону так, як показано на малюнку.<br>
-<img alt="It's a Wonderful World-1.png" src="lib\media\it's-a-wonderful-world-1.png" style="width: 500px; max-width: 100%;">
-<br><br>Гра триває 4 раунди. Кожен раунд складається з 3-х послідовних фаз:<br>
-<br>A. Відбір карт
-<br>Б. Планування
-<br>В. Виробництво<br>
-Після закінчення 4-го раунду підрахуйте переможні бали
-<br>Нотатка
-Під час кожної фази гравці діють одночасно. Вам не потрібно чекати, поки хтось зробить свій хід.
-<br><br>
-<br>Візьміть із колоди та роздайте кожному гравцю по 7 карт розвитку долілиць.
-<br>Гравці переглядають отримані карти, обирають 1 з них і розміщують долілиць у зоні для відібраних карт, решту карт передають гравцю, що знаходиться...
-
-<br>ліворуч (у 1-му та 3-му раундах);
-<br>праворуч (у 2-му та 4-му раундах).
-
-
-<br>Гравці одночасно перевертають відібрані карти та лишають їх у зоні для відібраних карт. Після цього гравці беруть карти, які передав сусід.
-<br>Повторюйте ці дії, обираючи по 1-й карті, допоки кожен гравець не розмістить по 7 карт розвитку у своїй зоні для відібраних карт.
-<br>Порада
-Іноді вигідно залишати деякі карти, які можуть не бути корисними для вас, але давати перевагу вашим опонентам. Пізніше ви зможете використати ці карти для отримання бонусу за переробку
-<br><img alt="It's a Wonderful World-2.png" src="lib\media\it's-a-wonderful-world-2.png" style="width: 500px; max-width: 100%;"><br><br>Для кожної карти розвитку, що знаходиться в зоні для відібраних карт, ви маєте обрати одну з 2-х опцій:<br>
-<br>Початок будівництва: перемістіть карту в зону будівництва (тепер ви зможете її побудувати).
-<br>Переробка: скиньте карту та отримайте бонус за переробку. Візьміть відповідний ресурс зі складу і одразу розмістіть його на карті, що будується, чи карті Імперії (подробиці у пункті 3. Будівництво).
-<br><img alt="It's a Wonderful World-12.png" src="lib\media\it's-a-wonderful-world-12.png" style="width: 500px; max-width: 100%;"><br>Заувага
-Якщо переробка карти дозволяє додати останній потрібний ресурс на карту, що будується, то
-
-<br>її побудова завершується негайно.
-<br>вона почне виробляти ресурси вже в поточному раунді.
-
-<br>Фаза завершується, коли всі перемістять свої карти із зони для відібраних карт у зону будівництва або відправлять їх на переробку.<br><br>Ця фаза складається з 5 послідовних етапів виробництва, по 1 на кожен тип ресурсів.<br>
-Протягом кожного етапу всі одночасно виробляють відповідний тип ресурсів у порядку, зазначеному на ігровому полі:<br><img alt="It's a Wonderful World-3.png" src="lib\media\it's-a-wonderful-world-3.png" style="width: 500px; max-width: 100%;"><br><br>
-<br>
-Виробництво: підрахуйте кількість іконок, що відповідають поточному етапу виробництва. Враховуйте карти своєї Імперії (саму карту Імперії та вже побудовані карти розвитку); ігноруйте ще не побудовані карти.<br>
-<img alt="It's a Wonderful World-4.png" src="lib\media\it's-a-wonderful-world-4.png" style="width: 200px; max-width: 100%;">
-Заувага
-Деякі картки розвитку мають символ виробництва, що позначає тип карти<br>
-<img alt="It's a Wonderful World-6.png" src="lib\media\it's-a-wonderful-world-6.png" style="width: 500px; max-width: 100%;">
-Приклад:<br>
-<img alt="It's a Wonderful World-5.png" src="lib\media\it's-a-wonderful-world-5.png" style="width: 200px; max-width: 100%;"> - означає, що ви отрмаєте 1 Відкриття за кожну побудовану картку Трансорту
-
-
-<br>
-Бонус за верховенство: повідомте іншим гравцям ваш загальний обсяг виробництва. Якщо ви виробляєте більше цього ресурсу, ніж будь-який інший гравець, то отримуєте бонус за верховенство. Негайно візьміть відповідний жетон лідера та розмістіть на своїй карті Імперії
-Примітка
-Бонус за верховенство у знаннях дозволяє обрати жетон фінансиста або генералки на вибір
-
-
-<br>
-Будівництво: візьміть з відповідного складу стільки кубиків ресурсів, скільки ресурсів цього типу ви виробляєте. Одразу ж розподіліть їх між картами, які будуєте, та вашою картою Імперії.
-
-<br>
-<br>Ви не зможете пересунути кубики, які вже розташували на якійсь карті.
-<br>Ви не можете відкласти ресурси (окрім кристалію) для наступних фаз чи раундів.
-Заувага
-Кубики ресурсів можна покласти тільки на карти розвитку, що будуються, або карту Імперії.
-
-
-<br>Коли всі місця на карті в зоні будівництва заповнені відповідними компонентами, її будівництво завершено:<br>
-<br>Поверніть усі кубики та жетони з карти на склад.
-<br>Отримайте бонус за побудову, якщо він є.
-<br>Додайте карту до своєї Імперії, розташувавши її на попередніх так, щоб було видно символи виробництва.
-<br>Примітка
-
-<br>Кількість ресурсів у грі не обмежена
-<br>Ви можете будувати скільки завгодно однакових карт розвитку
-
-<br>Бонус за побудову
-Один раз, коли завершуєте будівництво карти, отримайте жетон лідера/кубик кристалію і покладіть на свою карту Імперії<br>
-<img alt="It's a Wonderful World-8.png" src="lib\media\it's-a-wonderful-world-8.png" style="width: 500px; max-width: 100%;">
-<br><br>Як тільки на карті Імперії опиниться 5 кубиків будь-яких  ресурсів - обміняйте їх на 1 кубик кристалію<br>
-<br>кристалій зберігається як завгодно довго
-<br>кристалій можна використати в будь-який момент
-
-<br>замість іншого ресурсу
-<br>помістивши на місце, де потрібен саме кристалій
-
-
-<br><img alt="It's a Wonderful World-13.png" src="lib\media\it's-a-wonderful-world-13.png" style="width: 500px; max-width: 100%;"><br>Заувага
-Кубики ресурсів, що знаходяться на вашій карті Імперії, можна використати тільки для перетворення на кристалій.
-<br><br>Для побудови деяких карт розвитку потрібні кубики кристалію або жетони лідера<br>
-<img alt="It's a Wonderful World-14.png" src="lib\media\it's-a-wonderful-world-14.png" style="width: 500px; max-width: 100%;"><br>Пам’ятайте
-Ви не можете замінити жетон лідера кубиком кристалію
-<br><br>У будь-який момент ви можете скинути карту, що знаходиться в зоні будівництва<br>
-<br>отримайте бонус за переробку та розмістіть отриманий ресурс на карту Імперії (використовується аби отрмати кристалій)
-<br>скиньте всі кубики ресурсів та жетони, які вклали на скинуту карту
-<br><br>Гра закінчується після закінчення 4-го раунду<br><br>Заувага
-Кубики кристалію та недобудовані карти розвитку не приносять переможних балів у кінці гри.
-<br><br>У грі для 2-х гравців роздайте кожному гравцю по 10 карток розвитку (замість 7)<br>Відбір карт проходить за звичайними правилами, але коли в гравців залишиться по 3 карти на руках - вони мають їх скинути (ніхто не отримує бонус за переробку при скиданні цих карт). Таким чином кожен із гравців отримає по 7 карт у своїй зоні для відібраних карт.<br>Усі інші правила лишаються без змін.<br>]]></description><link>100-life\130-hobby\board-games\it's-a-wonderful-world.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/It's a Wonderful World.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\it's-a-wonderful-world-9.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\it's-a-wonderful-world-9.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Keep Heroes Out]]></title><description><![CDATA[ 
- <br><br><br>
-<br><a data-tooltip-position="top" aria-label="https://boardgamegeek.com/thread/3224514/general-compiled-faq-not-official-to-eventually-cr" rel="noopener nofollow" class="external-link" href="https://boardgamegeek.com/thread/3224514/general-compiled-faq-not-official-to-eventually-cr" target="_blank">General compiled FAQ</a>
-<br><a data-tooltip-position="top" aria-label="https://www.kickstarter.com/projects/luisbrueh/keep-the-heroes-out/posts/3673170?ref=bggforums" rel="noopener nofollow" class="external-link" href="https://www.kickstarter.com/projects/luisbrueh/keep-the-heroes-out/posts/3673170?ref=bggforums" target="_blank">Keep the Heroes Out by Luis Brueh » The Dungeon Tenant Survival Guide!</a>
-<br><br>Rules
-<br>
-<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/6829/rulebook_6_UA.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/6829/rulebook_6_UA.pdf" target="_blank">Rulebook</a>
-<br><br>
-<br>Обрати сценарій і побудувати підземелля
-<br>Перетасувати всі карти чудовиськ, настоянок, споряджень, сувоїв разом та  розмістити долілиць.<br>
-Розкрити 5 верхніх карт.
-<br>Перемішати жетони скарбів (долілиць).
-<br>Утворити колоду гільдії, перетасувавши всі карти героїв разом з картами сценарію та розмістити долілиць
-<br>Відкласти решту жетонів у запас (щоразу, коли скидається жетон, він повертається до запасу).
-<br><br>Кожен клан починає гру з колодою карт тактики, які підкреслюють різні аспекти трьох базових ролей: агресор, захисник і помічник<br>
-<img alt="BG Keep Heroes Out-3.png" src="lib\media\bg-keep-heroes-out-3.png"><br>Гравці по черзі обирають клан монстрів, за який хочуть грати (починаючи з наймолодшого гравця, за годинниковою стрілкою).<br>
-<br>Взяти карту клану, карти тактики та фігурки монстрів<br>
-<img alt="BG Keep Heroes Out-1.png" src="lib\media\bg-keep-heroes-out-1.png" style="width: 600px; max-width: 100%;">
-<br>розмістити (викликати) монстрів у відповідних кімнатах (кількість вказана на карті).<br>
-решту монстрів покласти поруч з картою клану (лігво).
-<br>Перетасувати карти тактики обраного клану та покласти долілиць поряд з картою клану (колода тактики).
-<br>Взяти 5 верхніх карт на руку
-<br>Гравець із найменшою кількістю монстрів у своєму клані бере жетон активного гравця.<br><br>Перед початком гри, необхідно обрати рівень складності.<br><img alt="BG Keep Heroes Out-2.png" src="lib\media\bg-keep-heroes-out-2.png" style="width: 800px; max-width: 100%;"><br>Коли гравець завершує хід, розіграти стільки карт Гільдії, скільки визначено рівнем складності.<br><br><img alt="BG Keep Heroes Out-4.png" src="lib\media\bg-keep-heroes-out-4.png"><br><br>Карти дій потрібно грати по одній. Виберіть одну зі своєї руки, розкрийте її, розіграйте її дії, після чого покладіть горілиць перед собою в ігровій зоні.<br>Info
-Якщо колода тактики закінчиться, негайно перетасуйте карти зі свого скиду та створіть нову колоду тактики
-<br>
-<br>дії розігруються окремо, у будь-якому порядку
-<br>дії (на одній карті), можуть бути виконані одним монстром, або розподілені між декількома монстрами у підземеллі.
-<br>гравець не зобов’язаний виконувати всі дії на карті.
-<br>якщо для дії потрібен жетон, а в запасі їх більше не залишилося, ви не можете виконати дію.
-<br><img alt="BG Keep Heroes Out-5.png" src="lib\media\bg-keep-heroes-out-5.png"><br>Виклик
-виклик без додаткових позначень означає: "додати фігурку монстра у кімнату, де вже є ваш монстр".<br>
-дія → виклик означає: "додати монстра в ту саму кімнату, в якій було виконано дію"
-<br><br>Портали - дозволяють швидко переміщуватись між кімнатами в підземеллі.<br>
-<br>кожен сценарій має незавершені портали
-<br>можна активувати за дію (палець)
-<br>через портали можна переміщатись із ресурсами
-<br>вартість переміщення - одна дія
-<br>герої не використовують портали (якщо не сказано інакше)
-<br><img alt="BG Keep Heroes Out-6.png" src="lib\media\bg-keep-heroes-out-6.png" style="width: 600px; max-width: 100%;"><br><br>Пастки - одноразові засоби захисту. Коли герой потрапляє в кімнату з пасткою, він отримує одне ушкодження, після чого пастка прибирається<br>
-<br>можна отримати в кімнаті "Майстерня"
-<br>можна отримати за допомогою карт
-<br>можна переміщати як інші ресурси
-<br>Warning
-Пастки не працюють, якщо герой "бачив" як її встановлюють поряд з ним в спільній кімнаті.
-<br><img alt="BG Keep Heroes Out-7.png" src="lib\media\bg-keep-heroes-out-7.png" style="width: 600px; max-width: 100%;"><br><br>В деяких кімнатах підземелля можна отримати ресурси за дію активації (палець)<br>
-<img alt="BG Keep Heroes Out-8.png" src="lib\media\bg-keep-heroes-out-8.png"><br>
-Ці ресурси пізніше можна буде обміняти на предмети з колоди предметів.<br>Tip
-Коли берете карту - кладіть її у свій скид (наступного разу, коли колода тактики вичерпається, цей предмет буде замішано)
-<br><img alt="BG Keep Heroes Out-9.png" src="lib\media\bg-keep-heroes-out-9.png"><br><br>Один раз за хід, у будь-яку мить, ви можете  спробувати запроторити героя до темниці! Для цього витягніть верхню карту колоди Гільдії.<br>
-Якщо випала карта сценарію - нічого не відбувається<br>
-Якщо випала карта героя:<br>
-<br>покладіть жетон до темниці “виснаженим” боком догори.
-<br>візьміть у руку 3 карти зі своєї колоди тактики
-<br>застосуйте, якщо можливо, особливу здібність ув’язненого героя.
-<br>Warning
-Якщо до темниці запроторено мага, всі виснажені герої стають активними і негайно розігруються!
-<br><br>Додаткова підготовка:<br>
-<br>вибрати клан, який не використовують гравці
-<br>перетасуйте всі 10 початкових карт тактики разом із колодою предметів
-<br>При активації лабораторії, витягніть карту з колоди Гільдії і запроторте героя до темниці. Потім візьміть колоду тактику (клану монстрів, який було обрано на початку) з наявних предметів і покладіть до свого скиду.<br><br>Додаткова підготовка:<br>
-<br>перетасуйте невикористані кімнати підземелля, утворивши стос
-<br>відкрийте 3 верхні карти
-<br>При активації будмайданчика скиньте число монет (не більше 3), рівне вартості скарбу, який плануєте розмістити в новій кімнаті. Після цього, відкрийте нову кімнати і покладіть на порожнє місце.<br><br>Під час цієї фази можна скинути карту тактики з руки, щоб оновити від 1 до 5 карт предметів.<br>
-<br>карти, що вилучаються, покласти під низ колоди
-<br>викласти нові карти на порожні місця
-<br>оновлювати карти можна скільки завгодно разів (кожного разу скидаючи карту)
-<br><br>
-<br>перемістити всі карти з ігрової зони у скид
-<br>якщо на руці &lt;5 карт, добрати нові з колоди тактики
-<br>якщо колода тактики вичерпалась - перетасувати скид
-<br><br>Відповідно до хвилі і обраної складності витягти і розіграти картки Гільдії.<br>
-<br>одночасно розігрується лише одна карта Гільдії
-<br>якщо треба розіграти декілька героїв, гравці обирають порядок
-<br>Warning
-Якщо необхідно викликати нового героя, але в запасі не залишилось жетонів - активуйте всіх героїв цього класу та всіх героїв в спільних кімнатах (включно з темницею)
-
-<br>Активація відбувається один раз за карту Гільдії (а не за кожного героя, що мав з'явитись)
-
-<br>Якщо колода вичерпалась вперше - перетасуйте її, перегорніть карту хвилі стороною 2 горілиць і покладіть перетасовані карти долілиць сформувавши нову колоду Гільдії.<br>Намагайтесь передбачити появу героїв
-Колода гільдії містить по 4 карти карти кожного з героїв (по 1 карті на кожен тип кімнати). Знаючи це, можна з легкістю оцінити ймовірність появи героя в певній зоні. Така оцінка дуже важлива, коли ви хочете випробувати свою удачу і запровторити героя до темниці.
-
-<br>Щоб зробити процес "передбачення" легше - розбийте скид колоди Гільдії на стоси за типами героїв.
-
-<br>Heroes placing order
-You have to
-
-<br>resolve 1 card at a time
-<br>following priority in each room resolve all heroes until they are all inactive
-
-As long as you follow these, the order of placing, activation, each room you select etc. are all player choices.
-<br><br>
-<br>Поставити жетон героя у вказану кімнату <img alt="BG Keep Heroes Out-10.png" src="lib\media\bg-keep-heroes-out-10.png">
-<br>Хизування: виконується лише один раз при появі героя в підземеллі<img alt="BG Keep Heroes Out-11.png" src="lib\media\bg-keep-heroes-out-11.png">
-<br>Перевірка кімнати:
-
-<br>Якщо в кімнаті є пастки - розіграти по одній (1 пастка = 1 ушкодження).
-<br>Якщо героя викликано в темницю - виснажити його (крім чарівника)
-
-
-<br>Натхнення: активувати всіх виснажених героїв.
-
-<br>Активовані герої теж розігруються в цей хід !
-
-
-<br>Атака: виснажити героя і завдати 1 ушкодження монстру.
-<br>Грабунок: якщо в кімнаті немає монстрів і кількість активних героїв &gt;= вартості скарбу в кімнаті - виснажити героїв, перевернути жетон скарбу і розіграти його ефект. <img alt="BG Keep Heroes Out-12.png" src="lib\media\bg-keep-heroes-out-12.png">
-<br>Очікування: якщо немає монстрів і є скарб, але кількість героїв недостатня - виснажити героя
-<br>Просування: якщо в кімнаті немає монстрів і скарбу - перемістити всіх активних героїв в наступну кімнату (найближчу до сховища).
-Warning
-Після переміщення дії 3-8 виконуються повторно для кожного з героїв
-
-
-<br><img alt="BG Keep Heroes Out-13.png" src="lib\media\bg-keep-heroes-out-13.png"><br><br>Перемога
-Якщо розіграно останню карту в другій хвилі (і скарб вартістю 4 не було загарбано) - гравці здобувають перемогу
-<br>Поразка
-Якщо будь-якої миті скарб вартістю 4 загарбають - гравці негайно програють
-]]></description><link>100-life\130-hobby\board-games\keep-heroes-out.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Keep Heroes Out.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-keep-heroes-out-3.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-keep-heroes-out-3.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Radlands]]></title><description><![CDATA[ 
- <br><br><br><br>Rules
-<br>
-<a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-radlands.-ukranske-vidannja-ukranskou-movou-46031108.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-radlands.-ukranske-vidannja-ukranskou-movou-46031108.pdf" target="_blank">Rulebook</a>
-<br><br><br>Гравці сідають за стіл один напроти одного. Будь-хто з них повинен виконати такі кроки:<br>
-<br>Перетасувати й покласти на центр стола колоду табору (A).
-<br>Покласти на центр стола додаткові жетони води 💧 (чорні) (Б).
-<br>Перетасувати й покласти на центр стола основну колоду, залишивши біля неї місце для скиду (В).
-<br><img alt="Radlands-1.png" src="lib\media\radlands-1.png" style="width: 400px; max-width: 100%;"><br><br>Тепер ви разом зі суперником готуєте власні ігрові зони. Для цього виконайте такі кроки:<br>
-<br>
-Візьміть по 6 карт із колоди табору.
-У першій партії
-радимо вам не брати карти з колоди, а відразу дати гравцям:
-
-<br>"Гараж", "Рейкотрон" і "Склад припасів"
-<br>"Реактор", "Гармата" й "Тотем перемоги"
-
-
-
-<br>
-У своїй ігровій зоні викладіть у ряд 3 вибрані карти таборів долілиць (Г).<br>
-Залиште місце для 2 карт перед кожним табором, куди ви пізніше гратимете карти людей.<br>
-Обидва гравці перевартають карти таборів горілиць (решта карт таборів і колода таборів більше не знадобляться)
-
-<br>
-Візьміть карти "Резервуар" і "Грабіжники" та покладіть їх горілиць у свою ігрову зону (Д)
-
-<br>
-Сформуйте у своїй ігровій зоні запас із 3 жетонів води 💧 (білих) (Е).
-
-<br>
-Візьміть карту-пам’ятку (Ж)
-
-<br>
-Візьміть з основної колоди на руку (И) кількість карт, що дорівнює сумі чисел у чорних прямокутниках на ваших картах таборів (К).
-
-<br><br><br><br><br><br><br><img alt="Radlands-10.png" src="lib\media\radlands-10.png" style="width: 500px; max-width: 100%;"><br><br><br><br><br>Щоб визначити першого гравця, підкиньте жетон води. Якщо він упаде стороною з символом води (💧), то першим гравцем стаєте ви. Якщо ні — суперник.<br>Починаючи з першого гравця, виконуйте ходи по черзі, поки хтось із вас не знищить усі табори суперника.<br>
-У свій хід ви розігруєте такі 3 фази в указаному порядку:<br><br>
-<br>Якщо на місці 1💣 у вашій черзі є карта події, застосуйте її ефект і скиньте.
-<br>Просуньте всі події в черзі на 1 місце вперед (у напрямку до суперника).
-<br><br>
-<br>Візьміть карту 🎴
-<br>Візьміть свої 3 жетони води 💧 для використання в цей хід (жетони ніколи не зберігаються після попередніх ходів)
-Виняток
- Якщо ви перший гравець, то у свій перший хід візьміть 1 жетон води 💧 .
-
-
-<br><br>Виконайте будь-які з наведених дій у довільному порядку будь-яку кількість разів:<br>
-<br>Зіграти карту
-<br>Узяти карту
-<br>Утилізувати карту
-<br>Узяти "Резервуар"
-<br>Активувати ефект
-<br>Безплатні карти й ефекти. Деякі карти й ефекти не потребують оплати жетонами води. Коли ви активуєте безплатний ефект або граєте безплатну карту, то щоразу позначайте, що вона не готова, додатковим жетоном води стороною з рожевим тире ➖.<br>Завершення ходу. Завершивши виконання дій, поверніть усі жетони води (білі та чорні) у відповідні запаси.<br><br><br><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\radlands.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Radlands.md</guid><pubDate>Sat, 25 Jan 2025 15:28:46 GMT</pubDate><enclosure url="lib\media\radlands-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\radlands-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sky Team]]></title><description><![CDATA[ 
- <br><br><br><br>
-<br><a data-tooltip-position="top" aria-label="https://boardgamegeek.com/filepage/276012/sky-team-soundtrack-20-mins" rel="noopener nofollow" class="external-link" href="https://boardgamegeek.com/filepage/276012/sky-team-soundtrack-20-mins" target="_blank">Sky Team Soundtrack 20 mins</a>
-<br>[ ]
-<br><br>Rules
-<br>
-<a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-ploti-sky-team-64207547.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-ploti-sky-team-64207547.pdf" target="_blank">Rulebook</a>
-<br><br>
-<br>Покладіть панель керування на стіл. Переконайтеся, що
-
-<br>стрілка на диску осі літака вказує на чорний трикутник угорі
-<br>всі зелені лампочки накриті перемикачами.
-
-
-<br>Розмістити синій маркер аеродинаміки між поділками 4 та 5 вимірювача швидкості, а помаранчевий маркер аеродинаміки між поділками 8 та 9
-<br>Розмістіть червоний маркер гальм ліворуч від поділки 2 на шкалі гальм.
-<br>Гравець, який сидить ближче до синіх комірок - стає першим гравцем і бере 4 сині кубики<br>
-Інший гравець стає другим пілотом і бере 4 помаранчеві кубики
-<br>Вставте трек висоти (зелено-жовтою смужкою горілиць) в отвір у верхньому правому куті панелі керування так, щоб на дисплеї з’явилося число 6000(висота польоту в футах)
-<br>Вставте трек підльоту, щоб на дисплеї з’явився символ хмаринки
-<br>Покладіть жетон перекиду на кожен символ перекиду на треку висоти.
-<br>Покладіть на кожну поділку треку підльоту стільки фішок літаків , скільки на ній зображено символів літака.
-<br>Утворіть запас фішок кави
-<br>Роздайте кожному гравцеві ширму відповідного кольору та прочитайте пам’ятку, надруковану всередині.
-<br><img alt="Sky Team-1.png" src="lib\media\sky-team-1.png"><br><br>Гра триває 7 раундів. Кожен раунд складається з 3 фаз:<br>
-<br>Обговорення плану дій та кидки кубиків
-<br>Розміщення кубиків
-<br>Завершення раунду
-<br><br>На початку кожного раунду ви обговорюєте свій план дій<br>Заборонено
-Обговорювати майбутні значення кубиків чи натякати на використання конкретних значень
-<br>Після обговорення киньте всі 4 кубики за ширмою. Відтепер обидва гравці не можуть спілкуватись до кінця раунду (за вийнятком помилок в правилах)<br><br>Якщо на дисплеї поточної висоти є жетон перекиду, перемістіть його в комірку запасу.<br>
-<br>Будьколи протягом раунду будь-який гравець може витратити жетон перекиду.
-<br>Перекид дає змогу ОБОМ ГРАВЦЯМ за своїми ширмами перекинути 1 або більше кубиків ОДИН РАЗ
-<br><img alt="Sky Team-2.png" src="lib\media\sky-team-2.png"><br><br><br>
-<br>A: Виконуйте ходи по черзі. Стрілка на дисплеї поточної висоти вказує, хто ходить першим.
-<br>B: У свій хід розмістіть ОДИН (і тільки один!) зі своїх кубиків за ширмою у ПОРОЖНІЙ комірці на панелі керування.<br>
-Дотримуйтесь обмежень за кольором. Будь-який гравець може розміщувати кубики в двоколірних комірках
-<br>C: Дотримуйтесь обмежень за значенням
-<br>D: Більшість комірок мають обмеження за кольором ТА/АБО значенням кубиків
-<br>E: Комірки радіо мають обмеження за кольором, але не за значенням. У них можна розміщувати кубики з будь-яким значенням.
-<br>F: Комірки зосередження не мають ніяких обмежень (будь-який гравець може розмістити там кубик з будь-яким значенням).
-<br><img alt="Sky Team-3.png" src="lib\media\sky-team-3.png" style="width: 400px; max-width: 100%;"><br><br>Ефекти кубиків залежать від значень цих кубиків та від комірок, де вони розміщені<br>Обов'язкові дії
-Комірки дій з символом ⚠ -  це комірки обов’язкових дій
-
-<br>дії інших комірок необов'язкові
-
-Щораунду кожен гравець повинен розмістити по 1 кубику в комірках осі та двигунів.
-Ви негайно зазнаєте поразки
-Якщо наприкінці раунду в комірках осі та двигунів не розміщено по 1 кубику кожного кольору
-
-ПРИМІТКА. Ці комірки обов’язкові, але це не означає, що ви повинні починати розміщення кубиків саме з них!
-<br><br>Після того як хтось із гравців розмістив другий кубик, порівняйте значення обох кубиків:<br>
-<br>значення кубиків однакові → нічого не відбувається
-<br>значення кубиків відрізняються → поверність диск осі літака на різницю між значенням двох кубиків<br>
-Поверніть стрілку осі у бік гравця з вищим значенням кубика та залиште її в цьому положенні. Наприкінці раунду не повертайте вісь у початкове положення
-<br><img alt="Sky Team-4.png" src="lib\media\sky-team-4.png"><br>Входження у штопор
-Якщо стрілка осі досягає символу ❌ або проходить повз нього, то літак входить у штопор і ви негайно зазнаєте поразки.
-<br>Умова перемоги
-Наприкінці останнього раунду ваш літак повинен перебувати в чітко горизонтальному положенні
-<br><br>Після того як хтось із гравців розмістив другий кубик, додайте значення обох кубиків у комірках двигуна. Це ваша швидкість. Потім:<br><br>Зіткнення
-<img alt="Sky Team-8.png" src="lib\media\sky-team-8.png" style="width: 300px; max-width: 100%;"><br>
-Якщо
-
-<br>на дисплеї поточного положення перебуває поділка з фішками літаків
-<br>ви повинні просунути трек підльоту
-
-стається зіткнення і ви зазнаєте поразки!
-<br>Проліт повз Аеропорт
-<img alt="Sky Team-9.png" src="lib\media\sky-team-9.png" style="width: 200px; max-width: 100%;"><br>
-Якщо
-
-<br>на дисплеї поточного положення перебуває поділка з аеропортом
-<br>ви повинні просунути трек підльоту
-
-ви пролітаєте повз аеропорт і зазнаєте поразки!
-<br><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\sky-team.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Sky Team.md</guid><pubDate>Sat, 25 Jan 2025 01:48:30 GMT</pubDate><enclosure url="lib\media\sky-team-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\sky-team-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Small World]]></title><description><![CDATA[ 
- <br><br><br>Rules
-<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=BMxt7OVj_lI&amp;t=506s&amp;ab_channel=WatchItPlayed" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=BMxt7OVj_lI&amp;t=506s&amp;ab_channel=WatchItPlayed" target="_blank">Small World - How To Play - YouTube</a><br>
-Rulebook:
-]]></description><link>100-life\130-hobby\board-games\small-world.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Small World.md</guid><pubDate>Wed, 22 Jan 2025 17:25:54 GMT</pubDate></item><item><title><![CDATA[Terraforming Mars]]></title><description><![CDATA[ 
- <br><br><br>Rules
-<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=n3yVpsiVwL8&amp;t=1323s" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=n3yVpsiVwL8&amp;t=1323s" target="_blank">Terraforming Mars - How To Play - YouTube</a><br>
-<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/3827/Teraformuvannya_Marsa_ukr.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/3827/Teraformuvannya_Marsa_ukr.pdf" target="_blank">Rulebook</a>
-<br><br><br>]]></description><link>100-life\130-hobby\board-games\terraforming-mars.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Terraforming Mars.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[The Loop]]></title><description><![CDATA[ 
- <br><br><br>Rules
-<br>
-<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/6763/pravila_gri_petlja_the_loop_5492.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/6763/pravila_gri_petlja_the_loop_5492.pdf" target="_blank">Rulebook</a>
-<br><br>
-<br>Коло простору-часу на центр столу
-
-<br>Машина др. Хиби (в будьяке положення)
-<br>Плитки диверсій навколо
-
-
-<br>Картки др. Хиби на першу фазу
-
-<br>Всього в грі по одній карті на кожну епоху
-
-
-<br>Карти артефактів на базу (без 30 базових карт агентів)
-<br>Вибрати одного агента з 5 доступних
-
-<br>6 карт агента
-<br>розмістити у відповідній епосі
-
-
-<br>Покласти клонів у мішок
-<br>Відкрити 2 карти др. Хиби
-
-<br>в ці епохи викласти по 1 кубику розлому
-<br>відкрити місії для цих епох
-<br>затасувати карти назад в колоду
-<br>покласти по кубику енергії на решту локацій
-
-
-<br>Згідно таблички, розмістити відповідну кількість клонів і карт артефактів
-<br><br>
-<br>Кожен гравець тасує колоду карт і викладає 3 карти горілиць
-<br><br>Гравці ходять по черзі за годинниковою стрілкою<br>
-Кожен хід складається з 5 фаз<br><br>
-<br>Додати клонів і артефакти (відповідно до фази др. Хиби)
-<br>Відкрити карту др. Хиби
-
-<br>повернути машину центральним жолобом на вибрану епоху
-<br>закинути 2 кубики розриву + 1 за кожного клона у вибраній епосі
-
-
-<br>Якщо в якійсь епосі накопичується &gt;3 кубиків розриву, утворюється вихор
-
-<br>негайно знищте всі кубики розриву, карти артефактів та плитку місії
-<br>тепер сюди не можна викладати карти артефактів, вони автоматично знищується
-
-
-<br><br>Під час раунду можна виконувати 3 дії в будь якій кількості і в довільному порядку<br>
-<br>Переміщення
-
-<br>1 кубик енергії з поточної епохи
-<br>безкоштовне переміщення (один раз за хід, перевернути карту темною стороною горілиць)
-
-
-<br>Зіграти карту з руки
-<br>Створити петлю (відновлює карти вибраного виміру крім чорних дір)
-
-<br>перше використання коштує 1 кубик енергії
-<br>друге використання - 2, і так далі
-
-
-<br>В результаті виконання дій ви можете<br>
-<br>Пошкодити плитку диверсії
-<br>Взяти карту вашої епохи (епоха у якій закінчили хід)
-
-<br>карта додається нагору колоди долілиць (таким чином ви гарантовано отримаєте цю карту в наступному ході)
-
-
-<br>Заархівувати плитку диверсії вашої епохи
-
-<br>всі умови мають бути виконані
-<br>ваш хід закінчився в епосі, на якій розміщена ця плитка
-БОНУС
-Коли ви архівуєте плитку диверсій, відкрийте p + 1 карту артефактів, де p = кількості гравців.<br>
-Кожен бере по 1 карті і додає до своєї колоди, останню карту знищують
-
-
-
-
-<br>Кількість місій завжди рівна 2
-У випадку коли:
-
-<br>виник вихор (і знищив відкриту плитку диверсії)
-<br>ви заархівували місію
-
-Негайно відкрийте нову плитку диверсії в епосі др. Хиба
-Якщо цього зробити неможна, відкрийте в наступній епосі за годинниковою стрілкою (або в наступній за нею, і так далі)
-<br>В кінці кожного ходу треба скинути активні карти до скиду і взяти 3 нові. Якщо карт не вистачає - перемішати скид і добрати необхідну кількість<br>Якщо колода др. Хиби вичерпалась, перемішайте всі карти і покладіть у наступну фазу<br><br> Перемога
-4 місії виконано і заархівовано<br>
-Це єдиний спосіб перемогти !
-<br>Програш
-
-<br>Вам треба покласти плитку вихору в епосі де вже є вихор
-<br>Ви викладаєте 4 плитку вихру
-<br>Карти др. Хиби вичерпались в третє (кінець 3 циклу)
-
-]]></description><link>100-life\130-hobby\board-games\the-loop.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/The Loop.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[Under Falling Skies]]></title><description><![CDATA[ 
- <br><br><br>Rules
-[Rulebook]
-<br><br><br><br><br><br><img alt="Under Falling Skies-1.png" src="lib\media\under-falling-skies-1.png"><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\under-falling-skies.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Under Falling Skies.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\under-falling-skies-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\under-falling-skies-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Colt Express]]></title><description><![CDATA[ 
- <br><br><br>Rules
-<br>
-<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/2481/pravila_37115996.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/2481/pravila_37115996.pdf" target="_blank">Rulebook</a>
-<br><br><br>
-<br>Зібрати потяг - кількість вагонів = кількості гравців
-<br>Розмістити фігурку шерифа і жетон кейса всередині локомотива
-<br>Викласти колоду з 13 нейтральних куль по центру стола
-<br>Кожен гравець<br>
-<img alt="BG Colt Express-1.png" src="lib\media\bg-colt-express-1.png" style="width: 300px; max-width: 100%;">
-
-<br>обирає бандита, бере його фігурку, планшет, карти його кольору
-<br>отримує  мішечок вартістю 250 доларів
-<br>перетасовує 10 карт дій і викладає на планшет долілиць
-<br>викладає 6 карт куль у порядку зростання кількості куль
-
-
-<br>Визначити першого гравця (навмання вибравши фігурку бандита). Починаючи з першого гравця й далі за годинниковою стрілкою, гравці по черзі розміщують своїх бандитів в останньому та передостанньому вагонах поїзда.
-<br>Відібрати 5 карт раундів (з карт для 4-6 гравців) АБО 4 карти (з колоди для 2-4 гравців)<br>
-<img alt="BG Colt Express-2.png" src="lib\media\bg-colt-express-2.png" style="width: 300px; max-width: 100%;">
-<br><br><br>
-<br>Перший гравець відкриває карту раунду
-<br>На початку раунду кожен гравець тасує свою колоду і бере 6 карт на руку
-<br>Починаючи з першого гравця і далі за годинниковою стрілкою, гравці по черзі
-
-<br>кладуть горілиць (якщо не сказано інакше) одну <a data-tooltip-position="top" aria-label="Карти Дій" data-href="#Карти Дій" href="about:blank#Карти_Дій" class="internal-link" target="_self" rel="noopener nofollow">карту дії</a> з руки<br>
-АБО
-<br>беруть на руку 3 карти із своєї колоди
-
-
-<br>Фаза «Планування» завершується, коли гравці зіграють кількість ходів, указану на карті раунду.<br>Усі незіграні карти з руки кожен гравець кладе зверху своєї колоди.<br><br><img alt="BG Colt Express-8.png" src="lib\media\bg-colt-express-8.png"><br><br>Бандити можуть перебувати всередині вагонів поїзда або на даху вагонів. На початку гри жоден бандит не може перебувати на даху<br><br><br>
-<br>Перевернути колоду і по черзі виконати всі дії
-<br>Повернути всі карти дій власникам
-<br>Кожен гравець додає отримані карти куль до своєї колоди дій перед початком нового раунду
-<br>Гравець ліворуч від першого гравця стає новим першим гравцем
-<br><br><img alt="BG Colt Express-7.png" src="lib\media\bg-colt-express-7.png"><br><br><br>Гра закінчується наприкінці п’ятого раунду. Потім кожен гравець рахує вартість жетонів здобичі<br>
-<br>Якщо гравець вистреляв найбільше куль - він отримує винагороду у 1000 доларів.<br>
-Якщо таких гравців декілька - всі вони отримують бонус.
-<br>Перемагає найбагатший гравець<br>
-<br>У разі нічиєї перемагає гравець, що отримав найменшу кількість карт куль.<br>
-Якщо таких гравців кілька, то вони ділять перемогу!
-]]></description><link>100-life\130-hobby\board-games\colt-express.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Colt Express.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-colt-express-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-colt-express-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dune Imperium]]></title><description><![CDATA[ 
- <br><br><br>Rules
-<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=nvX9EYxQEfY&amp;t=11s" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=nvX9EYxQEfY&amp;t=11s" target="_blank">Dune: Imperium - How To Play - YouTube</a><br>
-<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/4992/dune_imperium_ua_rules.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/4992/dune_imperium_ua_rules.pdf" target="_blank">Rulebook</a><br>
-<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/4992/dune_imperium_ua_locations.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/4992/dune_imperium_ua_locations.pdf" target="_blank">Locations map</a>
-<br>
-У всьому відомому Всесвіті немає ціннішого ресурсу, аніж прянощі меланжу. Їх можна знайти лише на суворій пустельній планеті Арракіс, знаній ще як Дюна. Контроль над меланжевими родовищами став головною при-чиною конфлікту між Великими Домами Імперіуму. У цій боротьбі кожен, хто прагне могутності, шукає союзів і підтримки для збереження своїх позицій. Правлячі радники Ландсрааду. Корпорація ДАПТ з її ненаситною жагою прибутку. Далекоглядні Сестри Бене Ґессерит. Гільдія Лоцманів з її мо-нополією на міжпросторові подорожі. Незламні воїни пустелі фримени. Навіть сам Імператор не цурається цієї боротьби. За таких умов конфлікт неминучий, а його результат невизначений. Утім одне відомо напевно.Хто контролюватиме видобуток прянощів, контролюватиме Всесвіт…
-<br><br>
-<br>
-викласти ігрове поле
-
-<br>
-викласти жетони альянсів
-
-<br>
-викласти ментата
-
-<br>
-карти конфлікту
-
-<br>всі карти III
-<br>5 випадкових карт II
-<br>1 випадкова карта I
-<br>решту повернути в коробку
-
-
-<br>
-викласти карти інтриг
-
-<br>
-Колода карт імперіуму
-
-<br>
-відібрати 24 карти фонду (біла стрічка згори)<br>
-розділити на 3 колоди<br>
-<img alt="BG Dune Imperium-2.png" src="lib\media\bg-dune-imperium-2.png" style="width: 300px; max-width: 100%;">
-
-<br>
-Відібрати карти з білою стрілкою (початкова карти)
-
-<br>
-викласти 5 карт<br>
-<img alt="BG Dune Imperium-1.png" src="lib\media\bg-dune-imperium-1.png" style="width: 500px; max-width: 100%;">
-
-
-
-<br>Вартість ресурсів
-Малі жетони = 1<br>
-Великі жетони = 5
-<br>Кожен гравець обирає колір і лідера (чим більше крапочок - тим складніше грати).<br>
-<img alt="BG Dune Imperium-3.png" src="lib\media\bg-dune-imperium-3.png"><br>
-<br>1 жетон води
-<br>2 агенти на планшет лідера, 1 агент (майстер меча) поряд з полем
-<br>2диски, один на позначку 0 (1 при грі в чотирьох) на треку очок
-<br>По одному кубику на трек кожної фракції
-<br>3 кубики загонів в гарнізон, решту в запас
-<br>Маркер бою на початок (0) шкали бою мечем догори
-<br><br><img alt="BG Dune Imperium-4.png" src="lib\media\bg-dune-imperium-4.png"><br><br>
-<br>Відкрити нову карту конфлікту
-<br>Кожен гравець бере 5 карт згори своєї колоди<br>
-перетасувати скид у випадку нестачі карт
-<br><br>Починаючи з того, хто має маркер першого гравця, і далі за годинниковою стрілкою, гравці виконують по одному ходу за раз.<br><img alt="BG Dune Imperium-5.png" src="lib\media\bg-dune-imperium-5.png"><br>У свій хід ви можете виконати одну з двох дій:<br>
-відправити агента<br>
-<br>зіграти карту з руки (вибравши один з символів агента)<br>
-якщо символи відсутні - карта не може бути зіграна для відправлення агента<br>
-<img alt="BG Dune Imperium-6.png" src="lib\media\bg-dune-imperium-6.png" style="width: 100px; max-width: 100%;">
-<br>не можна відправити агента на зайняту локацію
-<br>ви повинні сплатити/задовільнити ціну/вимогу локації
-<br>ви можете застосувати ефект комірки агента зіграної карти<br>
-ефекти комірки розкриття ігноруються
-<br>розкрити карти.<br>
-<br>викласти всі карти на руці горілиць
-<br>порахувати очки переконливості
-<br>застосувати інші ефекти з комірок розкриття
-<br>Придбання карт
-
-<br>Очки переконливості використовуються під час вашого ходу "Розкрити карти" для придбання нових карт для вашої колоди.
-<br>Ви можете придбати будь-яку кількість карт (поки вистачає очок переконливості)<br>
-карту "Міжпросторова подорож" можна отримати з однойменної локації
-<br>Ціна придбання карти вказана в правому верхньому куті цієї карти.
-<br>Очки переконливості не можна зберігати. Якщо ви не використаєте ці очки під час свого ходу "Розкрити карти", то втрачаєте їх.
-<br>Придбавши карту, ви кладете її горілиць до свого скиду. Вам треба буде перетасувати її разом з рештою карт вашого скиду, коли у вашій колоді вичерпаються карти.
-<br>У Ряді Імперіуму завжди повинно бути 5 карт. Якщо їх бракує, поповніть ряд верхніми картами з колоди Імперіуму. Після придбання однієї карти ви можете потім придбати ту карту, яка її заміняє
-
-<br>Визначити силу
-
-<br>Кожен ваш загін у Зоні конфлікту дає 2 очки сили (загони у вашому гарнізоні чи запасі не дають нічого).
-<br>Кожен меч, який ви показали під час розкриття своїх карт, дає 1 очко сили.
-<br>Ви повинні мати принаймні один загін у Зоні конфлікту, щоб мати хоч якусь силу.
-<br>Перемістіть свій маркер бою на відповідну поділку на шкалі бою
-
-<br>Карти Інтриг
-Є три типи карт інтриг: задум, бій і кінець гри.
-
-<br>Ви можете зіграти карту задуму будь-коли під час свого ходу, коли відправляєте агента чи розкриваєте карти.
-<br>Ви можете грати карти бою лише під час бою.
-<br>Ви можете грати карти кінця гри лише наприкінці гри.
-
-<img alt="BG Dune Imperium-7.png" src="lib\media\bg-dune-imperium-7.png" style="width: 150px; max-width: 100%;">
-<br>Приберіть усі карти, що лежать перед вами (зіграні під час відправлення агентів і розкриття карт), і покладіть їх до свого скиду<br><br>У цій фазі відбувається бій, але спершу гравці мають можливість зіграти інтригові карти бою.<br>
-Починаючи з гравця з маркером першого гравця і далі за годинниковою стрілкою, кожен гравець, що має принаймні один загін у Зоні конфлікту<br>
-<br>може розіграти будь-яку кількість інтригових карт бою
-<br>може спасувати. Ви не зобов’язані пасувати лише тому, що пасували раніше у фазі бою
-<br>Після того як усі гравці, що беруть участь у бою, послідовно спасують, відбувається сам бій.<br>Attention
-Кілька інтригових карт бою мають ефекти, що активуються, "коли ви перемагаєте в конфлікті" Ви повинні дочекатися своєї перемоги, а потім зіграти їх
-<br>Після того як усі нагороди будуть розподілені, кожен гравець забирає свої загони із Зони конфлікту та кладе їх до свого запасу (але не до свого гарнізону)<br>Нічиї
-
-<br>за 1 місце - гравці отримують нагороду за 2 місце
-<br>за 2 місце - гравці отримують нагороду за 3 місце
-<br>за 3 місце - ніхто не отримує нічого
-
-<br>Бонуси котролю
-якщо ви перемагаєте в конфлікті та здобуваєте контроль над локацією
-
-<br>"Арракін"
-<br>"Карфаг"
-<br>"Басейн Імператора"
-
-покладіть свій маркер контролю на прапор під цією локацією (замінивши там маркер будь-якого суперника). Ви отримуєте зображений на локації бонус щоразу, коли будь-який гравець (ви також) відправляє туди агента.
-Коли відкривається карта конфлікту для локації, яку ви вже контролюєте, можете розгорнути один загін з вашого запасу в Зоні конфлікту (бонус захисту).
-<br><br>У цій фазі на деяких локаціях ігрового поля можуть накопичуватися прянощі. Перевірте кожну з трьох локацій ігрового поля із символом видобутку:<br>
-<br>"Велика рівнина"
-<br>"Басейн Гаґґа"
-<br>"Басейн Імператора"
-<br>Якщо на локації немає агента - покладіть 1 прянощі на спеціально відведене для цього місце. Ці прянощі додаються до прянощів що залишилися на цих місцях з попередніх раундів.<br><br>Перевірити умови виграшу.<br>
-Якщо ніхто не переміг:<br>
-<br>повернути Ментата на його місце (якщо його там немає);
-<br>повернути агентів  на карти своїх лідерів
-<br>передати маркер першого гравця наступному за годинниковою стрілкою гравцеві
-<br>Розпочати новий раунд з фази 1.<br><br>Наприкінці раунду, якщо будь-який гравець набрав 10 чи більше переможних очок (або якщо вичерпалася колода карт конфліктів), гра закінчується. Перемагає той, у кого найбільше переможних очок.<br>Нічия
-У разі нічиєї переможець серед претендентів визначається за такими показниками у вказаному порядку:
-
-<br>кількість прянощів
-<br>кількість соляріїв
-<br>кількість води
-<br>кількість загонів у гарнізоні.
-
-]]></description><link>100-life\130-hobby\board-games\dune-imperium.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Dune Imperium.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-dune-imperium-2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-dune-imperium-2.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Five tribes]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\dune.-a-game-of-conquest-and-diplomacy.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Dune. A Game of Conquest and Diplomacy.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Five tribes]]></title><description><![CDATA[ 
  <br><br><br>Rules
 <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=hfvDro2ecFw" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=hfvDro2ecFw" target="_blank">Five Tribes - How To Play - YouTube</a><br>
 <a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/6428/five_tribes_rules_ua.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/6428/five_tribes_rules_ua.pdf" target="_blank">Rulebook</a>
@@ -1862,7 +1403,7 @@ Note
 <br>5 ПО за кожну Палац на вашому Тайлі
 <br>Сума ПО ваших Тайлів
 
-]]></description><link>100-life\130-hobby\board-games\five-tribes.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Five tribes.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-five-tribes-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-five-tribes-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gloomhaven JotL]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\five-tribes.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Five tribes.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-five-tribes-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-five-tribes-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gloomhaven JotL]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br><a data-tooltip-position="top" aria-label="https://gloomhaven-secretary.de/" rel="noopener nofollow" class="external-link" href="https://gloomhaven-secretary.de/" target="_blank">Gloomhaven Secretariat</a> - has features of storyline
 <br><a data-tooltip-position="top" aria-label="https://gloomhaven-storyline.com/#/" rel="noopener nofollow" class="external-link" href="https://gloomhaven-storyline.com/#/" target="_blank">Gloomhaven storyline</a>
@@ -2064,4 +1605,489 @@ Note
 
 <br>Монстри завжди використовують елементи. Усі монстри одного типу отримують перевагу.
 <br>Щити не блокують пошкодження від пасток.
-<br><br>]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL.md</guid><pubDate>Sat, 25 Jan 2025 01:53:47 GMT</pubDate><enclosure url="lib\media\bg-gloomhaven-jotl-6.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-gloomhaven-jotl-6.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<br><br>]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL.md</guid><pubDate>Sat, 25 Jan 2025 01:53:47 GMT</pubDate><enclosure url="lib\media\bg-gloomhaven-jotl-6.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-gloomhaven-jotl-6.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[It's a Wonderful World]]></title><description><![CDATA[ 
+ <br><br><br><br><img alt="It's a Wonderful World-7.png" src="lib\media\it's-a-wonderful-world-7.png"><br><br>Rules
+<br>
+<a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-cey-divovizhniy-svt-its-a-wonderful-world-ukranskou-movou-34737244.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-cey-divovizhniy-svt-its-a-wonderful-world-ukranskou-movou-34737244.pdf" target="_blank">Rulebook</a>
+<br><br>
+<br>Складіть ігрове поле та розмістіть жетон відстеження раундів на позначку 1.
+<br>Перетасуйте карти розвитку та сформуйте з них колоду. Розташуйте її<br>
+долілиць поруч із ігровим полем.
+<br>Розмістіть кубики ресурсів та жетони лідерів на відведених для них<br>
+місцях на ігровому полі.
+<br>Оберіть сторону карти Імперії: А чи Б (для першої гри використовуйте<br>
+сторону А). Роздайте по одній карті Імперії кожному гравцю. Гравці мають<br>
+розташувати їх однаковою стороною догори.
+<br>Заувага
+Під час партії всі гравці мають використовувати однакову сторону карт Імперії.<br>
+Для першої партії ми наполегливо рекомендуємо сторону А.
+<br>
+<br>Протягом гри ви будете розігрувати багато карток, тому підготуйте свою ігрову зону так, як показано на малюнку.<br>
+<img alt="It's a Wonderful World-1.png" src="lib\media\it's-a-wonderful-world-1.png" style="width: 500px; max-width: 100%;">
+<br><br>Гра триває 4 раунди. Кожен раунд складається з 3-х послідовних фаз:<br>
+<br>A. Відбір карт
+<br>Б. Планування
+<br>В. Виробництво<br>
+Після закінчення 4-го раунду підрахуйте переможні бали
+<br>Нотатка
+Під час кожної фази гравці діють одночасно. Вам не потрібно чекати, поки хтось зробить свій хід.
+<br><br>
+<br>Візьміть із колоди та роздайте кожному гравцю по 7 карт розвитку долілиць.
+<br>Гравці переглядають отримані карти, обирають 1 з них і розміщують долілиць у зоні для відібраних карт, решту карт передають гравцю, що знаходиться...
+
+<br>ліворуч (у 1-му та 3-му раундах);
+<br>праворуч (у 2-му та 4-му раундах).
+
+
+<br>Гравці одночасно перевертають відібрані карти та лишають їх у зоні для відібраних карт. Після цього гравці беруть карти, які передав сусід.
+<br>Повторюйте ці дії, обираючи по 1-й карті, допоки кожен гравець не розмістить по 7 карт розвитку у своїй зоні для відібраних карт.
+<br>Порада
+Іноді вигідно залишати деякі карти, які можуть не бути корисними для вас, але давати перевагу вашим опонентам. Пізніше ви зможете використати ці карти для отримання бонусу за переробку
+<br><img alt="It's a Wonderful World-2.png" src="lib\media\it's-a-wonderful-world-2.png" style="width: 500px; max-width: 100%;"><br><br>Для кожної карти розвитку, що знаходиться в зоні для відібраних карт, ви маєте обрати одну з 2-х опцій:<br>
+<br>Початок будівництва: перемістіть карту в зону будівництва (тепер ви зможете її побудувати).
+<br>Переробка: скиньте карту та отримайте бонус за переробку. Візьміть відповідний ресурс зі складу і одразу розмістіть його на карті, що будується, чи карті Імперії (подробиці у пункті 3. Будівництво).
+<br><img alt="It's a Wonderful World-12.png" src="lib\media\it's-a-wonderful-world-12.png" style="width: 500px; max-width: 100%;"><br>Заувага
+Якщо переробка карти дозволяє додати останній потрібний ресурс на карту, що будується, то
+
+<br>її побудова завершується негайно.
+<br>вона почне виробляти ресурси вже в поточному раунді.
+
+<br>Фаза завершується, коли всі перемістять свої карти із зони для відібраних карт у зону будівництва або відправлять їх на переробку.<br><br>Ця фаза складається з 5 послідовних етапів виробництва, по 1 на кожен тип ресурсів.<br>
+Протягом кожного етапу всі одночасно виробляють відповідний тип ресурсів у порядку, зазначеному на ігровому полі:<br><img alt="It's a Wonderful World-3.png" src="lib\media\it's-a-wonderful-world-3.png" style="width: 500px; max-width: 100%;"><br><br>
+<br>
+Виробництво: підрахуйте кількість іконок, що відповідають поточному етапу виробництва. Враховуйте карти своєї Імперії (саму карту Імперії та вже побудовані карти розвитку); ігноруйте ще не побудовані карти.<br>
+<img alt="It's a Wonderful World-4.png" src="lib\media\it's-a-wonderful-world-4.png" style="width: 200px; max-width: 100%;">
+Заувага
+Деякі картки розвитку мають символ виробництва, що позначає тип карти<br>
+<img alt="It's a Wonderful World-6.png" src="lib\media\it's-a-wonderful-world-6.png" style="width: 500px; max-width: 100%;">
+Приклад:<br>
+<img alt="It's a Wonderful World-5.png" src="lib\media\it's-a-wonderful-world-5.png" style="width: 200px; max-width: 100%;"> - означає, що ви отрмаєте 1 Відкриття за кожну побудовану картку Трансорту
+
+
+<br>
+Бонус за верховенство: повідомте іншим гравцям ваш загальний обсяг виробництва. Якщо ви виробляєте більше цього ресурсу, ніж будь-який інший гравець, то отримуєте бонус за верховенство. Негайно візьміть відповідний жетон лідера та розмістіть на своїй карті Імперії
+Примітка
+Бонус за верховенство у знаннях дозволяє обрати жетон фінансиста або генералки на вибір
+
+
+<br>
+Будівництво: візьміть з відповідного складу стільки кубиків ресурсів, скільки ресурсів цього типу ви виробляєте. Одразу ж розподіліть їх між картами, які будуєте, та вашою картою Імперії.
+
+<br>
+<br>Ви не зможете пересунути кубики, які вже розташували на якійсь карті.
+<br>Ви не можете відкласти ресурси (окрім кристалію) для наступних фаз чи раундів.
+Заувага
+Кубики ресурсів можна покласти тільки на карти розвитку, що будуються, або карту Імперії.
+
+
+<br>Коли всі місця на карті в зоні будівництва заповнені відповідними компонентами, її будівництво завершено:<br>
+<br>Поверніть усі кубики та жетони з карти на склад.
+<br>Отримайте бонус за побудову, якщо він є.
+<br>Додайте карту до своєї Імперії, розташувавши її на попередніх так, щоб було видно символи виробництва.
+<br>Примітка
+
+<br>Кількість ресурсів у грі не обмежена
+<br>Ви можете будувати скільки завгодно однакових карт розвитку
+
+<br>Бонус за побудову
+Один раз, коли завершуєте будівництво карти, отримайте жетон лідера/кубик кристалію і покладіть на свою карту Імперії<br>
+<img alt="It's a Wonderful World-8.png" src="lib\media\it's-a-wonderful-world-8.png" style="width: 500px; max-width: 100%;">
+<br><br>Як тільки на карті Імперії опиниться 5 кубиків будь-яких  ресурсів - обміняйте їх на 1 кубик кристалію<br>
+<br>кристалій зберігається як завгодно довго
+<br>кристалій можна використати в будь-який момент
+
+<br>замість іншого ресурсу
+<br>помістивши на місце, де потрібен саме кристалій
+
+
+<br><img alt="It's a Wonderful World-13.png" src="lib\media\it's-a-wonderful-world-13.png" style="width: 500px; max-width: 100%;"><br>Заувага
+Кубики ресурсів, що знаходяться на вашій карті Імперії, можна використати тільки для перетворення на кристалій.
+<br><br>Для побудови деяких карт розвитку потрібні кубики кристалію або жетони лідера<br>
+<img alt="It's a Wonderful World-14.png" src="lib\media\it's-a-wonderful-world-14.png" style="width: 500px; max-width: 100%;"><br>Пам’ятайте
+Ви не можете замінити жетон лідера кубиком кристалію
+<br><br>У будь-який момент ви можете скинути карту, що знаходиться в зоні будівництва<br>
+<br>отримайте бонус за переробку та розмістіть отриманий ресурс на карту Імперії (використовується аби отрмати кристалій)
+<br>скиньте всі кубики ресурсів та жетони, які вклали на скинуту карту
+<br><br>Гра закінчується після закінчення 4-го раунду<br><br>Заувага
+Кубики кристалію та недобудовані карти розвитку не приносять переможних балів у кінці гри.
+<br><br>У грі для 2-х гравців роздайте кожному гравцю по 10 карток розвитку (замість 7)<br>Відбір карт проходить за звичайними правилами, але коли в гравців залишиться по 3 карти на руках - вони мають їх скинути (ніхто не отримує бонус за переробку при скиданні цих карт). Таким чином кожен із гравців отримає по 7 карт у своїй зоні для відібраних карт.<br>Усі інші правила лишаються без змін.<br>]]></description><link>100-life\130-hobby\board-games\it&apos;s-a-wonderful-world.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/It&apos;s a Wonderful World.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\it&apos;s-a-wonderful-world-9.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\it&apos;s-a-wonderful-world-9.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Keep Heroes Out]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://boardgamegeek.com/thread/3224514/general-compiled-faq-not-official-to-eventually-cr" rel="noopener nofollow" class="external-link" href="https://boardgamegeek.com/thread/3224514/general-compiled-faq-not-official-to-eventually-cr" target="_blank">General compiled FAQ</a>
+<br><a data-tooltip-position="top" aria-label="https://www.kickstarter.com/projects/luisbrueh/keep-the-heroes-out/posts/3673170?ref=bggforums" rel="noopener nofollow" class="external-link" href="https://www.kickstarter.com/projects/luisbrueh/keep-the-heroes-out/posts/3673170?ref=bggforums" target="_blank">Keep the Heroes Out by Luis Brueh » The Dungeon Tenant Survival Guide!</a>
+<br><br>Rules
+<br>
+<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/6829/rulebook_6_UA.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/6829/rulebook_6_UA.pdf" target="_blank">Rulebook</a>
+<br><br>
+<br>Обрати сценарій і побудувати підземелля
+<br>Перетасувати всі карти чудовиськ, настоянок, споряджень, сувоїв разом та  розмістити долілиць.<br>
+Розкрити 5 верхніх карт.
+<br>Перемішати жетони скарбів (долілиць).
+<br>Утворити колоду гільдії, перетасувавши всі карти героїв разом з картами сценарію та розмістити долілиць
+<br>Відкласти решту жетонів у запас (щоразу, коли скидається жетон, він повертається до запасу).
+<br><br>Кожен клан починає гру з колодою карт тактики, які підкреслюють різні аспекти трьох базових ролей: агресор, захисник і помічник<br>
+<img alt="BG Keep Heroes Out-3.png" src="lib\media\bg-keep-heroes-out-3.png"><br>Гравці по черзі обирають клан монстрів, за який хочуть грати (починаючи з наймолодшого гравця, за годинниковою стрілкою).<br>
+<br>Взяти карту клану, карти тактики та фігурки монстрів<br>
+<img alt="BG Keep Heroes Out-1.png" src="lib\media\bg-keep-heroes-out-1.png" style="width: 600px; max-width: 100%;">
+<br>розмістити (викликати) монстрів у відповідних кімнатах (кількість вказана на карті).<br>
+решту монстрів покласти поруч з картою клану (лігво).
+<br>Перетасувати карти тактики обраного клану та покласти долілиць поряд з картою клану (колода тактики).
+<br>Взяти 5 верхніх карт на руку
+<br>Гравець із найменшою кількістю монстрів у своєму клані бере жетон активного гравця.<br><br>Перед початком гри, необхідно обрати рівень складності.<br><img alt="BG Keep Heroes Out-2.png" src="lib\media\bg-keep-heroes-out-2.png" style="width: 800px; max-width: 100%;"><br>Коли гравець завершує хід, розіграти стільки карт Гільдії, скільки визначено рівнем складності.<br><br><img alt="BG Keep Heroes Out-4.png" src="lib\media\bg-keep-heroes-out-4.png"><br><br>Карти дій потрібно грати по одній. Виберіть одну зі своєї руки, розкрийте її, розіграйте її дії, після чого покладіть горілиць перед собою в ігровій зоні.<br>Info
+Якщо колода тактики закінчиться, негайно перетасуйте карти зі свого скиду та створіть нову колоду тактики
+<br>
+<br>дії розігруються окремо, у будь-якому порядку
+<br>дії (на одній карті), можуть бути виконані одним монстром, або розподілені між декількома монстрами у підземеллі.
+<br>гравець не зобов’язаний виконувати всі дії на карті.
+<br>якщо для дії потрібен жетон, а в запасі їх більше не залишилося, ви не можете виконати дію.
+<br><img alt="BG Keep Heroes Out-5.png" src="lib\media\bg-keep-heroes-out-5.png"><br>Виклик
+виклик без додаткових позначень означає: "додати фігурку монстра у кімнату, де вже є ваш монстр".<br>
+дія → виклик означає: "додати монстра в ту саму кімнату, в якій було виконано дію"
+<br><br>Портали - дозволяють швидко переміщуватись між кімнатами в підземеллі.<br>
+<br>кожен сценарій має незавершені портали
+<br>можна активувати за дію (палець)
+<br>через портали можна переміщатись із ресурсами
+<br>вартість переміщення - одна дія
+<br>герої не використовують портали (якщо не сказано інакше)
+<br><img alt="BG Keep Heroes Out-6.png" src="lib\media\bg-keep-heroes-out-6.png" style="width: 600px; max-width: 100%;"><br><br>Пастки - одноразові засоби захисту. Коли герой потрапляє в кімнату з пасткою, він отримує одне ушкодження, після чого пастка прибирається<br>
+<br>можна отримати в кімнаті "Майстерня"
+<br>можна отримати за допомогою карт
+<br>можна переміщати як інші ресурси
+<br>Warning
+Пастки не працюють, якщо герой "бачив" як її встановлюють поряд з ним в спільній кімнаті.
+<br><img alt="BG Keep Heroes Out-7.png" src="lib\media\bg-keep-heroes-out-7.png" style="width: 600px; max-width: 100%;"><br><br>В деяких кімнатах підземелля можна отримати ресурси за дію активації (палець)<br>
+<img alt="BG Keep Heroes Out-8.png" src="lib\media\bg-keep-heroes-out-8.png"><br>
+Ці ресурси пізніше можна буде обміняти на предмети з колоди предметів.<br>Tip
+Коли берете карту - кладіть її у свій скид (наступного разу, коли колода тактики вичерпається, цей предмет буде замішано)
+<br><img alt="BG Keep Heroes Out-9.png" src="lib\media\bg-keep-heroes-out-9.png"><br><br>Один раз за хід, у будь-яку мить, ви можете  спробувати запроторити героя до темниці! Для цього витягніть верхню карту колоди Гільдії.<br>
+Якщо випала карта сценарію - нічого не відбувається<br>
+Якщо випала карта героя:<br>
+<br>покладіть жетон до темниці “виснаженим” боком догори.
+<br>візьміть у руку 3 карти зі своєї колоди тактики
+<br>застосуйте, якщо можливо, особливу здібність ув’язненого героя.
+<br>Warning
+Якщо до темниці запроторено мага, всі виснажені герої стають активними і негайно розігруються!
+<br><br>Додаткова підготовка:<br>
+<br>вибрати клан, який не використовують гравці
+<br>перетасуйте всі 10 початкових карт тактики разом із колодою предметів
+<br>При активації лабораторії, витягніть карту з колоди Гільдії і запроторте героя до темниці. Потім візьміть колоду тактику (клану монстрів, який було обрано на початку) з наявних предметів і покладіть до свого скиду.<br><br>Додаткова підготовка:<br>
+<br>перетасуйте невикористані кімнати підземелля, утворивши стос
+<br>відкрийте 3 верхні карти
+<br>При активації будмайданчика скиньте число монет (не більше 3), рівне вартості скарбу, який плануєте розмістити в новій кімнаті. Після цього, відкрийте нову кімнати і покладіть на порожнє місце.<br><br>Під час цієї фази можна скинути карту тактики з руки, щоб оновити від 1 до 5 карт предметів.<br>
+<br>карти, що вилучаються, покласти під низ колоди
+<br>викласти нові карти на порожні місця
+<br>оновлювати карти можна скільки завгодно разів (кожного разу скидаючи карту)
+<br><br>
+<br>перемістити всі карти з ігрової зони у скид
+<br>якщо на руці &lt;5 карт, добрати нові з колоди тактики
+<br>якщо колода тактики вичерпалась - перетасувати скид
+<br><br>Відповідно до хвилі і обраної складності витягти і розіграти картки Гільдії.<br>
+<br>одночасно розігрується лише одна карта Гільдії
+<br>якщо треба розіграти декілька героїв, гравці обирають порядок
+<br>Warning
+Якщо необхідно викликати нового героя, але в запасі не залишилось жетонів - активуйте всіх героїв цього класу та всіх героїв в спільних кімнатах (включно з темницею)
+
+<br>Активація відбувається один раз за карту Гільдії (а не за кожного героя, що мав з'явитись)
+
+<br>Якщо колода вичерпалась вперше - перетасуйте її, перегорніть карту хвилі стороною 2 горілиць і покладіть перетасовані карти долілиць сформувавши нову колоду Гільдії.<br>Намагайтесь передбачити появу героїв
+Колода гільдії містить по 4 карти карти кожного з героїв (по 1 карті на кожен тип кімнати). Знаючи це, можна з легкістю оцінити ймовірність появи героя в певній зоні. Така оцінка дуже важлива, коли ви хочете випробувати свою удачу і запровторити героя до темниці.
+
+<br>Щоб зробити процес "передбачення" легше - розбийте скид колоди Гільдії на стоси за типами героїв.
+
+<br>Heroes placing order
+You have to
+
+<br>resolve 1 card at a time
+<br>following priority in each room resolve all heroes until they are all inactive
+
+As long as you follow these, the order of placing, activation, each room you select etc. are all player choices.
+<br><br>
+<br>Поставити жетон героя у вказану кімнату <img alt="BG Keep Heroes Out-10.png" src="lib\media\bg-keep-heroes-out-10.png">
+<br>Хизування: виконується лише один раз при появі героя в підземеллі<img alt="BG Keep Heroes Out-11.png" src="lib\media\bg-keep-heroes-out-11.png">
+<br>Перевірка кімнати:
+
+<br>Якщо в кімнаті є пастки - розіграти по одній (1 пастка = 1 ушкодження).
+<br>Якщо героя викликано в темницю - виснажити його (крім чарівника)
+
+
+<br>Натхнення: активувати всіх виснажених героїв.
+
+<br>Активовані герої теж розігруються в цей хід !
+
+
+<br>Атака: виснажити героя і завдати 1 ушкодження монстру.
+<br>Грабунок: якщо в кімнаті немає монстрів і кількість активних героїв &gt;= вартості скарбу в кімнаті - виснажити героїв, перевернути жетон скарбу і розіграти його ефект. <img alt="BG Keep Heroes Out-12.png" src="lib\media\bg-keep-heroes-out-12.png">
+<br>Очікування: якщо немає монстрів і є скарб, але кількість героїв недостатня - виснажити героя
+<br>Просування: якщо в кімнаті немає монстрів і скарбу - перемістити всіх активних героїв в наступну кімнату (найближчу до сховища).
+Warning
+Після переміщення дії 3-8 виконуються повторно для кожного з героїв
+
+
+<br><img alt="BG Keep Heroes Out-13.png" src="lib\media\bg-keep-heroes-out-13.png"><br><br>Перемога
+Якщо розіграно останню карту в другій хвилі (і скарб вартістю 4 не було загарбано) - гравці здобувають перемогу
+<br>Поразка
+Якщо будь-якої миті скарб вартістю 4 загарбають - гравці негайно програють
+]]></description><link>100-life\130-hobby\board-games\keep-heroes-out.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Keep Heroes Out.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-keep-heroes-out-3.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-keep-heroes-out-3.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Radlands]]></title><description><![CDATA[ 
+ <br><br><br><br>Rules
+<br>
+<a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-radlands.-ukranske-vidannja-ukranskou-movou-46031108.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-radlands.-ukranske-vidannja-ukranskou-movou-46031108.pdf" target="_blank">Rulebook</a>
+<br><br><br>Гравці сідають за стіл один напроти одного. Будь-хто з них повинен виконати такі кроки:<br>
+<br>Перетасувати й покласти на центр стола колоду табору (A).
+<br>Покласти на центр стола додаткові жетони води 💧 (чорні) (Б).
+<br>Перетасувати й покласти на центр стола основну колоду, залишивши біля неї місце для скиду (В).
+<br><img alt="Radlands-1.png" src="lib\media\radlands-1.png" style="width: 400px; max-width: 100%;"><br><br>Тепер ви разом зі суперником готуєте власні ігрові зони. Для цього виконайте такі кроки:<br>
+<br>
+Візьміть по 6 карт із колоди табору.
+У першій партії
+радимо вам не брати карти з колоди, а відразу дати гравцям:
+
+<br>"Гараж", "Рейкотрон" і "Склад припасів"
+<br>"Реактор", "Гармата" й "Тотем перемоги"
+
+
+
+<br>
+У своїй ігровій зоні викладіть у ряд 3 вибрані карти таборів долілиць (Г).<br>
+Залиште місце для 2 карт перед кожним табором, куди ви пізніше гратимете карти людей.<br>
+Обидва гравці перевартають карти таборів горілиць (решта карт таборів і колода таборів більше не знадобляться)
+
+<br>
+Візьміть карти "Резервуар" і "Грабіжники" та покладіть їх горілиць у свою ігрову зону (Д)
+
+<br>
+Сформуйте у своїй ігровій зоні запас із 3 жетонів води 💧 (білих) (Е).
+
+<br>
+Візьміть карту-пам’ятку (Ж)
+
+<br>
+Візьміть з основної колоди на руку (И) кількість карт, що дорівнює сумі чисел у чорних прямокутниках на ваших картах таборів (К).
+
+<br><br><br><br>
+<br>чорна рамка
+<br>скільки карт (A) її власник бере на руку на початку гри
+<br>можливі ефекти (Б) й [ ознаки ] (В) цієї карти.
+<br> <img alt="Radlands-5.png" src="lib\media\radlands-5.png" style="width: 200px; max-width: 100%;"><br><br>
+<br>біла рамка
+<br>граються у стовпці перед своїми картами табору.
+<br>ціна у воді (Г)
+<br>ефект утилізації (Д)
+<br>можливі ефекти (Б) та [ ознаки ] (В). |
+<br><img alt="Radlands-6.png" src="lib\media\radlands-6.png" style="width: 200px; max-width: 100%;"><br><br>
+<br>[ текст в зелених дужках
+<br>указано на деяких картах табору й людей (В)
+<br>ознаки всіх людей активні, якщо вони непошкоджені на цю мить.
+<br>ознаки таборів (навіть пошкоджених) завжди активні, поки вони не зруйновані.
+<br><img alt="Radlands-7.png" src="lib\media\radlands-7.png" style="width: 200px; max-width: 100%;"><br><br>
+<br>закрита карта (узята з верху колоди)
+<br>не має здатностей
+<br>коли панк зазнає пошкоджень, його негайно знищують
+<br>не дивлячись, карта повертається на верх колоди долілиць
+<br><img alt="Radlands-8.png" src="lib\media\radlands-8.png" style="width: 200px; max-width: 100%;"><br><br>
+<br>жовто-чорна смугаста рамка
+<br>ціна у воді (Г)
+<br>ефект утилізації (Д)
+<br>ефект події (Е)
+<br>символ 💣 з числом (Ж), що визначає місце у черзі подій (И) після розіграшу
+<br><img alt="Radlands-9.png" src="lib\media\radlands-9.png" style="width: 200px; max-width: 100%;"><br><br><br><img alt="Radlands-10.png" src="lib\media\radlands-10.png" style="width: 500px; max-width: 100%;"><br><br><br><br><br>Щоб визначити першого гравця, підкиньте жетон води. Якщо він упаде стороною з символом води (💧), то першим гравцем стаєте ви. Якщо ні — суперник.<br>Починаючи з першого гравця, виконуйте ходи по черзі, поки хтось із вас не знищить усі табори суперника.<br>
+У свій хід ви розігруєте такі 3 фази в указаному порядку:<br><br>
+<br>Якщо на місці 1💣 у вашій черзі є карта події, застосуйте її ефект і скиньте.
+<br>Просуньте всі події в черзі на 1 місце вперед (у напрямку до суперника).
+<br><br>
+<br>Візьміть карту 🎴
+<br>Візьміть свої 3 жетони води 💧 для використання в цей хід (жетони ніколи не зберігаються після попередніх ходів)
+Виняток
+ Якщо ви перший гравець, то у свій перший хід візьміть 1 жетон води 💧 .
+
+
+<br><br>Виконайте будь-які з наведених дій у довільному порядку будь-яку кількість разів:<br>
+<br>Зіграти карту
+<br>Узяти карту
+<br>Утилізувати карту
+<br>Узяти "Резервуар"
+<br>Активувати ефект
+<br>Безплатні карти й ефекти. Деякі карти й ефекти не потребують оплати жетонами води. Коли ви активуєте безплатний ефект або граєте безплатну карту, то щоразу позначайте, що вона не готова, додатковим жетоном води стороною з рожевим тире ➖.<br>Завершення ходу. Завершивши виконання дій, поверніть усі жетони води (білі та чорні) у відповідні запаси.<br><br><br><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\radlands.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Radlands.md</guid><pubDate>Sat, 25 Jan 2025 17:35:08 GMT</pubDate><enclosure url="lib\media\radlands-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\radlands-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sky Team]]></title><description><![CDATA[ 
+ <br><br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://boardgamegeek.com/filepage/276012/sky-team-soundtrack-20-mins" rel="noopener nofollow" class="external-link" href="https://boardgamegeek.com/filepage/276012/sky-team-soundtrack-20-mins" target="_blank">Sky Team Soundtrack 20 mins</a>
+<br>[ ]
+<br><br>Rules
+<br>
+<a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-ploti-sky-team-64207547.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-ploti-sky-team-64207547.pdf" target="_blank">Rulebook</a>
+<br><br>
+<br>Покладіть панель керування на стіл. Переконайтеся, що
+
+<br>стрілка на диску осі літака вказує на чорний трикутник угорі
+<br>всі зелені лампочки накриті перемикачами.
+
+
+<br>Розмістити синій маркер аеродинаміки між поділками 4 та 5 вимірювача швидкості, а помаранчевий маркер аеродинаміки між поділками 8 та 9
+<br>Розмістіть червоний маркер гальм ліворуч від поділки 2 на шкалі гальм.
+<br>Гравець, який сидить ближче до синіх комірок - стає першим гравцем і бере 4 сині кубики<br>
+Інший гравець стає другим пілотом і бере 4 помаранчеві кубики
+<br>Вставте трек висоти (зелено-жовтою смужкою горілиць) в отвір у верхньому правому куті панелі керування так, щоб на дисплеї з’явилося число 6000(висота польоту в футах)
+<br>Вставте трек підльоту, щоб на дисплеї з’явився символ хмаринки
+<br>Покладіть жетон перекиду на кожен символ перекиду на треку висоти.
+<br>Покладіть на кожну поділку треку підльоту стільки фішок літаків , скільки на ній зображено символів літака.
+<br>Утворіть запас фішок кави
+<br>Роздайте кожному гравцеві ширму відповідного кольору та прочитайте пам’ятку, надруковану всередині.
+<br><img alt="Sky Team-1.png" src="lib\media\sky-team-1.png"><br><br>Гра триває 7 раундів. Кожен раунд складається з 3 фаз:<br>
+<br>Обговорення плану дій та кидки кубиків
+<br>Розміщення кубиків
+<br>Завершення раунду
+<br><br>На початку кожного раунду ви обговорюєте свій план дій<br>Заборонено
+Обговорювати майбутні значення кубиків чи натякати на використання конкретних значень
+<br>Після обговорення киньте всі 4 кубики за ширмою. Відтепер обидва гравці не можуть спілкуватись до кінця раунду (за вийнятком помилок в правилах)<br><br>Якщо на дисплеї поточної висоти є жетон перекиду, перемістіть його в комірку запасу.<br>
+<br>Будьколи протягом раунду будь-який гравець може витратити жетон перекиду.
+<br>Перекид дає змогу ОБОМ ГРАВЦЯМ за своїми ширмами перекинути 1 або більше кубиків ОДИН РАЗ
+<br><img alt="Sky Team-2.png" src="lib\media\sky-team-2.png"><br><br><br>
+<br>A: Виконуйте ходи по черзі. Стрілка на дисплеї поточної висоти вказує, хто ходить першим.
+<br>B: У свій хід розмістіть ОДИН (і тільки один!) зі своїх кубиків за ширмою у ПОРОЖНІЙ комірці на панелі керування.<br>
+Дотримуйтесь обмежень за кольором. Будь-який гравець може розміщувати кубики в двоколірних комірках
+<br>C: Дотримуйтесь обмежень за значенням
+<br>D: Більшість комірок мають обмеження за кольором ТА/АБО значенням кубиків
+<br>E: Комірки радіо мають обмеження за кольором, але не за значенням. У них можна розміщувати кубики з будь-яким значенням.
+<br>F: Комірки зосередження не мають ніяких обмежень (будь-який гравець може розмістити там кубик з будь-яким значенням).
+<br><img alt="Sky Team-3.png" src="lib\media\sky-team-3.png" style="width: 400px; max-width: 100%;"><br><br>Ефекти кубиків залежать від значень цих кубиків та від комірок, де вони розміщені<br>Обов'язкові дії
+Комірки дій з символом ⚠ -  це комірки обов’язкових дій
+
+<br>дії інших комірок необов'язкові
+
+Щораунду кожен гравець повинен розмістити по 1 кубику в комірках осі та двигунів.
+Ви негайно зазнаєте поразки
+Якщо наприкінці раунду в комірках осі та двигунів не розміщено по 1 кубику кожного кольору
+
+ПРИМІТКА. Ці комірки обов’язкові, але це не означає, що ви повинні починати розміщення кубиків саме з них!
+<br><br>Після того як хтось із гравців розмістив другий кубик, порівняйте значення обох кубиків:<br>
+<br>значення кубиків однакові → нічого не відбувається
+<br>значення кубиків відрізняються → поверність диск осі літака на різницю між значенням двох кубиків<br>
+Поверніть стрілку осі у бік гравця з вищим значенням кубика та залиште її в цьому положенні. Наприкінці раунду не повертайте вісь у початкове положення
+<br><img alt="Sky Team-4.png" src="lib\media\sky-team-4.png"><br>Входження у штопор
+Якщо стрілка осі досягає символу ❌ або проходить повз нього, то літак входить у штопор і ви негайно зазнаєте поразки.
+<br>Умова перемоги
+Наприкінці останнього раунду ваш літак повинен перебувати в чітко горизонтальному положенні
+<br><br>Після того як хтось із гравців розмістив другий кубик, додайте значення обох кубиків у комірках двигуна. Це ваша швидкість. Потім:<br><br>Зіткнення
+<img alt="Sky Team-8.png" src="lib\media\sky-team-8.png" style="width: 300px; max-width: 100%;"><br>
+Якщо
+
+<br>на дисплеї поточного положення перебуває поділка з фішками літаків
+<br>ви повинні просунути трек підльоту
+
+стається зіткнення і ви зазнаєте поразки!
+<br>Проліт повз Аеропорт
+<img alt="Sky Team-9.png" src="lib\media\sky-team-9.png" style="width: 200px; max-width: 100%;"><br>
+Якщо
+
+<br>на дисплеї поточного положення перебуває поділка з аеропортом
+<br>ви повинні просунути трек підльоту
+
+ви пролітаєте повз аеропорт і зазнаєте поразки!
+<br><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\sky-team.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Sky Team.md</guid><pubDate>Sat, 25 Jan 2025 01:48:30 GMT</pubDate><enclosure url="lib\media\sky-team-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\sky-team-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Small World]]></title><description><![CDATA[ 
+ <br><br><br>Rules
+<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=BMxt7OVj_lI&amp;t=506s&amp;ab_channel=WatchItPlayed" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=BMxt7OVj_lI&amp;t=506s&amp;ab_channel=WatchItPlayed" target="_blank">Small World - How To Play - YouTube</a><br>
+Rulebook:
+]]></description><link>100-life\130-hobby\board-games\small-world.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Small World.md</guid><pubDate>Wed, 22 Jan 2025 17:25:54 GMT</pubDate></item><item><title><![CDATA[Terraforming Mars]]></title><description><![CDATA[ 
+ <br><br><br>Rules
+<a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=n3yVpsiVwL8&amp;t=1323s" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=n3yVpsiVwL8&amp;t=1323s" target="_blank">Terraforming Mars - How To Play - YouTube</a><br>
+<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/3827/Teraformuvannya_Marsa_ukr.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/3827/Teraformuvannya_Marsa_ukr.pdf" target="_blank">Rulebook</a>
+<br><br><br>]]></description><link>100-life\130-hobby\board-games\terraforming-mars.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Terraforming Mars.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[The Loop]]></title><description><![CDATA[ 
+ <br><br><br>Rules
+<br>
+<a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/6763/pravila_gri_petlja_the_loop_5492.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/6763/pravila_gri_petlja_the_loop_5492.pdf" target="_blank">Rulebook</a>
+<br><br>
+<br>Коло простору-часу на центр столу
+
+<br>Машина др. Хиби (в будьяке положення)
+<br>Плитки диверсій навколо
+
+
+<br>Картки др. Хиби на першу фазу
+
+<br>Всього в грі по одній карті на кожну епоху
+
+
+<br>Карти артефактів на базу (без 30 базових карт агентів)
+<br>Вибрати одного агента з 5 доступних
+
+<br>6 карт агента
+<br>розмістити у відповідній епосі
+
+
+<br>Покласти клонів у мішок
+<br>Відкрити 2 карти др. Хиби
+
+<br>в ці епохи викласти по 1 кубику розлому
+<br>відкрити місії для цих епох
+<br>затасувати карти назад в колоду
+<br>покласти по кубику енергії на решту локацій
+
+
+<br>Згідно таблички, розмістити відповідну кількість клонів і карт артефактів
+<br><br>
+<br>Кожен гравець тасує колоду карт і викладає 3 карти горілиць
+<br><br>Гравці ходять по черзі за годинниковою стрілкою<br>
+Кожен хід складається з 5 фаз<br><br>
+<br>Додати клонів і артефакти (відповідно до фази др. Хиби)
+<br>Відкрити карту др. Хиби
+
+<br>повернути машину центральним жолобом на вибрану епоху
+<br>закинути 2 кубики розриву + 1 за кожного клона у вибраній епосі
+
+
+<br>Якщо в якійсь епосі накопичується &gt;3 кубиків розриву, утворюється вихор
+
+<br>негайно знищте всі кубики розриву, карти артефактів та плитку місії
+<br>тепер сюди не можна викладати карти артефактів, вони автоматично знищується
+
+
+<br><br>Під час раунду можна виконувати 3 дії в будь якій кількості і в довільному порядку<br>
+<br>Переміщення
+
+<br>1 кубик енергії з поточної епохи
+<br>безкоштовне переміщення (один раз за хід, перевернути карту темною стороною горілиць)
+
+
+<br>Зіграти карту з руки
+<br>Створити петлю (відновлює карти вибраного виміру крім чорних дір)
+
+<br>перше використання коштує 1 кубик енергії
+<br>друге використання - 2, і так далі
+
+
+<br>В результаті виконання дій ви можете<br>
+<br>Пошкодити плитку диверсії
+<br>Взяти карту вашої епохи (епоха у якій закінчили хід)
+
+<br>карта додається нагору колоди долілиць (таким чином ви гарантовано отримаєте цю карту в наступному ході)
+
+
+<br>Заархівувати плитку диверсії вашої епохи
+
+<br>всі умови мають бути виконані
+<br>ваш хід закінчився в епосі, на якій розміщена ця плитка
+БОНУС
+Коли ви архівуєте плитку диверсій, відкрийте p + 1 карту артефактів, де p = кількості гравців.<br>
+Кожен бере по 1 карті і додає до своєї колоди, останню карту знищують
+
+
+
+
+<br>Кількість місій завжди рівна 2
+У випадку коли:
+
+<br>виник вихор (і знищив відкриту плитку диверсії)
+<br>ви заархівували місію
+
+Негайно відкрийте нову плитку диверсії в епосі др. Хиба
+Якщо цього зробити неможна, відкрийте в наступній епосі за годинниковою стрілкою (або в наступній за нею, і так далі)
+<br>В кінці кожного ходу треба скинути активні карти до скиду і взяти 3 нові. Якщо карт не вистачає - перемішати скид і добрати необхідну кількість<br>Якщо колода др. Хиби вичерпалась, перемішайте всі карти і покладіть у наступну фазу<br><br> Перемога
+4 місії виконано і заархівовано<br>
+Це єдиний спосіб перемогти !
+<br>Програш
+
+<br>Вам треба покласти плитку вихору в епосі де вже є вихор
+<br>Ви викладаєте 4 плитку вихру
+<br>Карти др. Хиби вичерпались в третє (кінець 3 циклу)
+
+]]></description><link>100-life\130-hobby\board-games\the-loop.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/The Loop.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[Under Falling Skies]]></title><description><![CDATA[ 
+ <br><br><br>Rules
+[Rulebook]
+<br><br><br><br><br><br><img alt="Under Falling Skies-1.png" src="lib\media\under-falling-skies-1.png"><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\under-falling-skies.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Under Falling Skies.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\under-falling-skies-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\under-falling-skies-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
