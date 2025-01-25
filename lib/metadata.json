@@ -1,145 +1,15 @@
 {
   "vaultName": "Obsidian",
-  "lastExport": 1737810519404,
+  "lastExport": 1737818935144,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon active-line fancy-code h2-underline",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "100 Life/130 Hobby/Board Games/Detective/Case №1.md",
-    "100 Life/130 Hobby/Board Games/Detective/Case №2.md",
-    "100 Life/130 Hobby/Board Games/Detective/Case №3.md",
-    "100 Life/130 Hobby/Board Games/Detective/Case №4.md",
-    "100 Life/130 Hobby/Board Games/Detective/Case №5.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Characters Guide.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Miscellaneous.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 0 - Introduction.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 1.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 2.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 3.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 4.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 5.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 6.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 7.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 8.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenarios List.md",
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Shortened Glossary.md",
-    "100 Life/130 Hobby/Board Games/7 Wonders.md",
-    "100 Life/130 Hobby/Board Games/Arkham Horror LCG.md",
-    "100 Life/130 Hobby/Board Games/Arkham Horror LCG Common Mistakes Compendium.md",
-    "100 Life/130 Hobby/Board Games/Carcassoane.md",
     "100 Life/130 Hobby/Board Games/Colt Express.md",
-    "100 Life/130 Hobby/Board Games/Detective MC.md",
     "100 Life/130 Hobby/Board Games/Dune Imperium.md",
-    "100 Life/130 Hobby/Board Games/Dune. A Game of Conquest and Diplomacy.md",
     "100 Life/130 Hobby/Board Games/Five tribes.md",
     "100 Life/130 Hobby/Board Games/Gloomhaven JotL.md",
-    "100 Life/130 Hobby/Board Games/It's a Wonderful World.md",
-    "100 Life/130 Hobby/Board Games/Keep Heroes Out.md",
-    "100 Life/130 Hobby/Board Games/Radlands.md",
-    "100 Life/130 Hobby/Board Games/Sky Team.md",
-    "100 Life/130 Hobby/Board Games/Small World.md",
-    "100 Life/130 Hobby/Board Games/Terraforming Mars.md",
-    "100 Life/130 Hobby/Board Games/The Loop.md",
-    "100 Life/130 Hobby/Board Games/Under Falling Skies.md",
-    "100 Life/130 Hobby/Board Games.md",
-    "100 Life/130 Hobby.md",
-    "🗃 INDEX HUB.md",
-    "100 Life.md",
-    "lib/media/miscellaneous-1.png",
-    "lib/media/shortened-glossary-1.png",
-    "lib/media/shortened-glossary-3.png",
-    "lib/media/shortened-glossary-2.png",
-    "lib/media/bg-colt-express-1.png",
-    "lib/media/bg-colt-express-2.png",
-    "lib/media/bg-colt-express-8.png",
-    "lib/media/bg-colt-express-3.png",
-    "lib/media/bg-colt-express-4.png",
-    "lib/media/bg-colt-express-5.png",
-    "lib/media/bg-colt-express-6.png",
-    "lib/media/bg-colt-express-7.png",
-    "lib/media/bg-dune-imperium-2.png",
-    "lib/media/bg-dune-imperium-1.png",
-    "lib/media/bg-dune-imperium-3.png",
-    "lib/media/bg-dune-imperium-4.png",
-    "lib/media/bg-dune-imperium-5.png",
-    "lib/media/bg-dune-imperium-6.png",
-    "lib/media/bg-dune-imperium-7.png",
-    "lib/media/bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png",
-    "lib/media/bg-five-tribes-1.png",
-    "lib/media/bg-five-tribes-2.png",
-    "lib/media/bg-gloomhaven-jotl-6.png",
-    "lib/media/bg-gloomhaven-jotl-7.png",
-    "lib/media/bg-gloomhaven-jotl-1.jpg",
-    "lib/media/bg-gloomhaven-jotl-2.jpg",
-    "lib/media/bg-gloomhaven-jotl-3.jpg",
-    "lib/media/bg-gloomhaven-jotl-4.jpg",
-    "lib/media/bg-gloomhaven-jotl-5.jpg",
-    "lib/media/bg-gloomhaven-jotl-6.jpg",
-    "lib/media/bg-gloomhaven-jotl-1.png",
-    "lib/media/bg-gloomhaven-jotl-2.png",
-    "lib/media/bg-gloomhaven-jotl-3.png",
-    "lib/media/bg-gloomhaven-jotl-4.png",
-    "lib/media/bg-gloomhaven-jotl-5.png",
-    "lib/media/it's-a-wonderful-world-9.png",
-    "lib/media/it's-a-wonderful-world-11.png",
-    "lib/media/it's-a-wonderful-world-10.png",
-    "lib/media/it's-a-wonderful-world-7.png",
-    "lib/media/it's-a-wonderful-world-1.png",
-    "lib/media/it's-a-wonderful-world-2.png",
-    "lib/media/it's-a-wonderful-world-12.png",
-    "lib/media/it's-a-wonderful-world-3.png",
-    "lib/media/it's-a-wonderful-world-4.png",
-    "lib/media/it's-a-wonderful-world-6.png",
-    "lib/media/it's-a-wonderful-world-5.png",
-    "lib/media/it's-a-wonderful-world-8.png",
-    "lib/media/it's-a-wonderful-world-13.png",
-    "lib/media/it's-a-wonderful-world-14.png",
-    "lib/media/it's-a-wonderful-world-15.png",
-    "lib/media/it's-a-wonderful-world-18.png",
-    "lib/media/it's-a-wonderful-world-16.png",
-    "lib/media/it's-a-wonderful-world-17.png",
-    "lib/media/bg-keep-heroes-out-3.png",
-    "lib/media/bg-keep-heroes-out-1.png",
-    "lib/media/bg-keep-heroes-out-2.png",
-    "lib/media/bg-keep-heroes-out-4.png",
-    "lib/media/bg-keep-heroes-out-5.png",
-    "lib/media/bg-keep-heroes-out-6.png",
-    "lib/media/bg-keep-heroes-out-7.png",
-    "lib/media/bg-keep-heroes-out-8.png",
-    "lib/media/bg-keep-heroes-out-9.png",
-    "lib/media/bg-keep-heroes-out-10.png",
-    "lib/media/bg-keep-heroes-out-11.png",
-    "lib/media/bg-keep-heroes-out-12.png",
-    "lib/media/bg-keep-heroes-out-13.png",
-    "lib/media/radlands-1.png",
-    "lib/media/radlands-4.png",
-    "lib/media/radlands-3.png",
-    "lib/media/radlands-2.png",
-    "lib/media/radlands-5.png",
-    "lib/media/radlands-6.png",
-    "lib/media/radlands-7.png",
-    "lib/media/radlands-8.png",
-    "lib/media/radlands-9.png",
-    "lib/media/radlands-10.png",
-    "lib/media/radlands-11.png",
-    "lib/media/radlands-12.png",
-    "lib/media/radlands-13.png",
-    "lib/media/radlands-14.png",
-    "lib/media/radlands-15.png",
-    "lib/media/radlands-16.png",
-    "lib/media/radlands-17.png",
-    "lib/media/radlands-18.png",
-    "lib/media/sky-team-1.png",
-    "lib/media/sky-team-2.png",
-    "lib/media/sky-team-3.png",
-    "lib/media/sky-team-4.png",
-    "lib/media/sky-team-5.png",
-    "lib/media/sky-team-6.png",
-    "lib/media/sky-team-7.png",
-    "lib/media/sky-team-8.png",
-    "lib/media/sky-team-9.png",
-    "lib/media/under-falling-skies-1.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -171,7 +41,37 @@
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/styles/snippets.css",
+    "lib/media/bg-colt-express-1.png",
+    "lib/media/bg-colt-express-2.png",
+    "lib/media/bg-colt-express-8.png",
+    "lib/media/bg-colt-express-3.png",
+    "lib/media/bg-colt-express-4.png",
+    "lib/media/bg-colt-express-5.png",
+    "lib/media/bg-colt-express-6.png",
+    "lib/media/bg-colt-express-7.png",
+    "lib/media/bg-dune-imperium-2.png",
+    "lib/media/bg-dune-imperium-1.png",
+    "lib/media/bg-dune-imperium-3.png",
+    "lib/media/bg-dune-imperium-4.png",
+    "lib/media/bg-dune-imperium-5.png",
+    "lib/media/bg-dune-imperium-6.png",
+    "lib/media/bg-dune-imperium-7.png",
+    "lib/media/bg-five-tribes-1.png",
+    "lib/media/bg-five-tribes-2.png",
+    "lib/media/bg-gloomhaven-jotl-6.png",
+    "lib/media/bg-gloomhaven-jotl-7.png",
+    "lib/media/bg-gloomhaven-jotl-1.jpg",
+    "lib/media/bg-gloomhaven-jotl-2.jpg",
+    "lib/media/bg-gloomhaven-jotl-3.jpg",
+    "lib/media/bg-gloomhaven-jotl-4.jpg",
+    "lib/media/bg-gloomhaven-jotl-5.jpg",
+    "lib/media/bg-gloomhaven-jotl-6.jpg",
+    "lib/media/bg-gloomhaven-jotl-1.png",
+    "lib/media/bg-gloomhaven-jotl-2.png",
+    "lib/media/bg-gloomhaven-jotl-3.png",
+    "lib/media/bg-gloomhaven-jotl-4.png",
+    "lib/media/bg-gloomhaven-jotl-5.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -208,144 +108,6 @@
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
-    "100 Life/130 Hobby/Board Games/Detective/Case №1.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 12516,
-      "exportedPath": "100-life/130-hobby/board-games/detective/case-№1.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Detective/Case №2.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 16472,
-      "exportedPath": "100-life/130-hobby/board-games/detective/case-№2.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Detective/Case №3.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 7623,
-      "exportedPath": "100-life/130-hobby/board-games/detective/case-№3.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Detective/Case №4.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 8801,
-      "exportedPath": "100-life/130-hobby/board-games/detective/case-№4.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Detective/Case №5.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 10128,
-      "exportedPath": "100-life/130-hobby/board-games/detective/case-№5.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Characters Guide.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1616,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/characters-guide.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Miscellaneous.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 23179,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/miscellaneous.html",
-      "dependencies": [
-        "lib/media/miscellaneous-1.png"
-      ]
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 0 - Introduction.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 3783,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenario-0-introduction.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 1.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 2160,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenario-1.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 2.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 2916,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenario-2.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 3.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 4174,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenario-3.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 4.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 4205,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenario-4.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 5.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 4891,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenario-5.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 6.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 5802,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenario-6.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 7.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 3266,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenario-7.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 8.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 3560,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenario-8.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenarios List.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 223,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/scenarios-list.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Shortened Glossary.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 15265,
-      "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl/shortened-glossary.html",
-      "dependencies": [
-        "lib/media/shortened-glossary-1.png",
-        "lib/media/shortened-glossary-3.png",
-        "lib/media/shortened-glossary-2.png"
-      ]
-    },
-    "100 Life/130 Hobby/Board Games/7 Wonders.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 474,
-      "exportedPath": "100-life/130-hobby/board-games/7-wonders.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Arkham Horror LCG.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1769,
-      "exportedPath": "100-life/130-hobby/board-games/arkham-horror-lcg.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Arkham Horror LCG Common Mistakes Compendium.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 17570,
-      "exportedPath": "100-life/130-hobby/board-games/arkham-horror-lcg-common-mistakes-compendium.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Carcassoane.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 2431,
-      "exportedPath": "100-life/130-hobby/board-games/carcassoane.html",
-      "dependencies": []
-    },
     "100 Life/130 Hobby/Board Games/Colt Express.md": {
       "modifiedTime": 1737810519404,
       "sourceSize": 4730,
@@ -361,12 +123,6 @@
         "lib/media/bg-colt-express-7.png"
       ]
     },
-    "100 Life/130 Hobby/Board Games/Detective MC.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1006,
-      "exportedPath": "100-life/130-hobby/board-games/detective-mc.html",
-      "dependencies": []
-    },
     "100 Life/130 Hobby/Board Games/Dune Imperium.md": {
       "modifiedTime": 1737810519404,
       "sourceSize": 12960,
@@ -379,14 +135,6 @@
         "lib/media/bg-dune-imperium-5.png",
         "lib/media/bg-dune-imperium-6.png",
         "lib/media/bg-dune-imperium-7.png"
-      ]
-    },
-    "100 Life/130 Hobby/Board Games/Dune. A Game of Conquest and Diplomacy.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 15574,
-      "exportedPath": "100-life/130-hobby/board-games/dune.-a-game-of-conquest-and-diplomacy.html",
-      "dependencies": [
-        "lib/media/bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png"
       ]
     },
     "100 Life/130 Hobby/Board Games/Five tribes.md": {
@@ -417,166 +165,6 @@
         "lib/media/bg-gloomhaven-jotl-4.png",
         "lib/media/bg-gloomhaven-jotl-5.png"
       ]
-    },
-    "100 Life/130 Hobby/Board Games/It's a Wonderful World.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 13536,
-      "exportedPath": "100-life/130-hobby/board-games/it's-a-wonderful-world.html",
-      "dependencies": [
-        "lib/media/it's-a-wonderful-world-9.png",
-        "lib/media/it's-a-wonderful-world-11.png",
-        "lib/media/it's-a-wonderful-world-10.png",
-        "lib/media/it's-a-wonderful-world-7.png",
-        "lib/media/it's-a-wonderful-world-1.png",
-        "lib/media/it's-a-wonderful-world-2.png",
-        "lib/media/it's-a-wonderful-world-12.png",
-        "lib/media/it's-a-wonderful-world-3.png",
-        "lib/media/it's-a-wonderful-world-4.png",
-        "lib/media/it's-a-wonderful-world-6.png",
-        "lib/media/it's-a-wonderful-world-5.png",
-        "lib/media/it's-a-wonderful-world-8.png",
-        "lib/media/it's-a-wonderful-world-13.png",
-        "lib/media/it's-a-wonderful-world-14.png",
-        "lib/media/it's-a-wonderful-world-15.png",
-        "lib/media/it's-a-wonderful-world-18.png",
-        "lib/media/it's-a-wonderful-world-16.png",
-        "lib/media/it's-a-wonderful-world-17.png"
-      ]
-    },
-    "100 Life/130 Hobby/Board Games/Keep Heroes Out.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 14197,
-      "exportedPath": "100-life/130-hobby/board-games/keep-heroes-out.html",
-      "dependencies": [
-        "lib/media/bg-keep-heroes-out-3.png",
-        "lib/media/bg-keep-heroes-out-1.png",
-        "lib/media/bg-keep-heroes-out-2.png",
-        "lib/media/bg-keep-heroes-out-4.png",
-        "lib/media/bg-keep-heroes-out-5.png",
-        "lib/media/bg-keep-heroes-out-6.png",
-        "lib/media/bg-keep-heroes-out-7.png",
-        "lib/media/bg-keep-heroes-out-8.png",
-        "lib/media/bg-keep-heroes-out-9.png",
-        "lib/media/bg-keep-heroes-out-10.png",
-        "lib/media/bg-keep-heroes-out-11.png",
-        "lib/media/bg-keep-heroes-out-12.png",
-        "lib/media/bg-keep-heroes-out-13.png"
-      ]
-    },
-    "100 Life/130 Hobby/Board Games/Radlands.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 22280,
-      "exportedPath": "100-life/130-hobby/board-games/radlands.html",
-      "dependencies": [
-        "lib/media/radlands-1.png",
-        "lib/media/radlands-4.png",
-        "lib/media/radlands-3.png",
-        "lib/media/radlands-2.png",
-        "lib/media/radlands-5.png",
-        "lib/media/radlands-6.png",
-        "lib/media/radlands-7.png",
-        "lib/media/radlands-8.png",
-        "lib/media/radlands-9.png",
-        "lib/media/radlands-10.png",
-        "lib/media/radlands-11.png",
-        "lib/media/radlands-12.png",
-        "lib/media/radlands-13.png",
-        "lib/media/radlands-14.png",
-        "lib/media/radlands-15.png",
-        "lib/media/radlands-16.png",
-        "lib/media/radlands-17.png",
-        "lib/media/radlands-18.png"
-      ]
-    },
-    "100 Life/130 Hobby/Board Games/Sky Team.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 9445,
-      "exportedPath": "100-life/130-hobby/board-games/sky-team.html",
-      "dependencies": [
-        "lib/media/sky-team-1.png",
-        "lib/media/sky-team-2.png",
-        "lib/media/sky-team-3.png",
-        "lib/media/sky-team-4.png",
-        "lib/media/sky-team-5.png",
-        "lib/media/sky-team-6.png",
-        "lib/media/sky-team-7.png",
-        "lib/media/sky-team-8.png",
-        "lib/media/sky-team-9.png"
-      ]
-    },
-    "100 Life/130 Hobby/Board Games/Small World.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 418,
-      "exportedPath": "100-life/130-hobby/board-games/small-world.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Terraforming Mars.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 569,
-      "exportedPath": "100-life/130-hobby/board-games/terraforming-mars.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/The Loop.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 6276,
-      "exportedPath": "100-life/130-hobby/board-games/the-loop.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby/Board Games/Under Falling Skies.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 461,
-      "exportedPath": "100-life/130-hobby/board-games/under-falling-skies.html",
-      "dependencies": [
-        "lib/media/under-falling-skies-1.png"
-      ]
-    },
-    "100 Life/130 Hobby/Board Games.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1222,
-      "exportedPath": "100-life/130-hobby/board-games.html",
-      "dependencies": []
-    },
-    "100 Life/130 Hobby.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 222,
-      "exportedPath": "100-life/130-hobby.html",
-      "dependencies": []
-    },
-    "🗃 INDEX HUB.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 94,
-      "exportedPath": "🗃-index-hub.html",
-      "dependencies": []
-    },
-    "100 Life.md": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 271,
-      "exportedPath": "100-life.html",
-      "dependencies": []
-    },
-    "lib/media/miscellaneous-1.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 38997,
-      "exportedPath": "lib/media/miscellaneous-1.png",
-      "dependencies": []
-    },
-    "lib/media/shortened-glossary-1.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 19353,
-      "exportedPath": "lib/media/shortened-glossary-1.png",
-      "dependencies": []
-    },
-    "lib/media/shortened-glossary-3.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 6050,
-      "exportedPath": "lib/media/shortened-glossary-3.png",
-      "dependencies": []
-    },
-    "lib/media/shortened-glossary-2.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 20208,
-      "exportedPath": "lib/media/shortened-glossary-2.png",
-      "dependencies": []
     },
     "lib/media/bg-colt-express-1.png": {
       "modifiedTime": 1737810519404,
@@ -666,12 +254,6 @@
       "modifiedTime": 1737810519404,
       "sourceSize": 654435,
       "exportedPath": "lib/media/bg-dune-imperium-7.png",
-      "dependencies": []
-    },
-    "lib/media/bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 930618,
-      "exportedPath": "lib/media/bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png",
       "dependencies": []
     },
     "lib/media/bg-five-tribes-1.png": {
@@ -764,548 +346,194 @@
       "exportedPath": "lib/media/bg-gloomhaven-jotl-5.png",
       "dependencies": []
     },
-    "lib/media/it's-a-wonderful-world-9.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1545270,
-      "exportedPath": "lib/media/it's-a-wonderful-world-9.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-11.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 225576,
-      "exportedPath": "lib/media/it's-a-wonderful-world-11.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-10.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1194360,
-      "exportedPath": "lib/media/it's-a-wonderful-world-10.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-7.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 4321313,
-      "exportedPath": "lib/media/it's-a-wonderful-world-7.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-1.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 994394,
-      "exportedPath": "lib/media/it's-a-wonderful-world-1.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-2.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 922330,
-      "exportedPath": "lib/media/it's-a-wonderful-world-2.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-12.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1213871,
-      "exportedPath": "lib/media/it's-a-wonderful-world-12.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-3.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1447214,
-      "exportedPath": "lib/media/it's-a-wonderful-world-3.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-4.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 401982,
-      "exportedPath": "lib/media/it's-a-wonderful-world-4.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-6.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 263591,
-      "exportedPath": "lib/media/it's-a-wonderful-world-6.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-5.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 90016,
-      "exportedPath": "lib/media/it's-a-wonderful-world-5.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-8.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 674418,
-      "exportedPath": "lib/media/it's-a-wonderful-world-8.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-13.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 325413,
-      "exportedPath": "lib/media/it's-a-wonderful-world-13.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-14.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 310147,
-      "exportedPath": "lib/media/it's-a-wonderful-world-14.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-15.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 32408,
-      "exportedPath": "lib/media/it's-a-wonderful-world-15.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-18.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 72524,
-      "exportedPath": "lib/media/it's-a-wonderful-world-18.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-16.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 135618,
-      "exportedPath": "lib/media/it's-a-wonderful-world-16.png",
-      "dependencies": []
-    },
-    "lib/media/it's-a-wonderful-world-17.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 149220,
-      "exportedPath": "lib/media/it's-a-wonderful-world-17.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-3.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 2412487,
-      "exportedPath": "lib/media/bg-keep-heroes-out-3.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-1.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1359056,
-      "exportedPath": "lib/media/bg-keep-heroes-out-1.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-2.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 671253,
-      "exportedPath": "lib/media/bg-keep-heroes-out-2.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-4.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 255955,
-      "exportedPath": "lib/media/bg-keep-heroes-out-4.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-5.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1973464,
-      "exportedPath": "lib/media/bg-keep-heroes-out-5.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-6.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 790096,
-      "exportedPath": "lib/media/bg-keep-heroes-out-6.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-7.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 578176,
-      "exportedPath": "lib/media/bg-keep-heroes-out-7.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-8.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1375977,
-      "exportedPath": "lib/media/bg-keep-heroes-out-8.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-9.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1183962,
-      "exportedPath": "lib/media/bg-keep-heroes-out-9.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-10.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 517756,
-      "exportedPath": "lib/media/bg-keep-heroes-out-10.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-11.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1005584,
-      "exportedPath": "lib/media/bg-keep-heroes-out-11.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-12.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 612901,
-      "exportedPath": "lib/media/bg-keep-heroes-out-12.png",
-      "dependencies": []
-    },
-    "lib/media/bg-keep-heroes-out-13.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1253329,
-      "exportedPath": "lib/media/bg-keep-heroes-out-13.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-1.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 323597,
-      "exportedPath": "lib/media/radlands-1.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-4.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 44138,
-      "exportedPath": "lib/media/radlands-4.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-3.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 408357,
-      "exportedPath": "lib/media/radlands-3.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-2.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 868898,
-      "exportedPath": "lib/media/radlands-2.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-5.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 459272,
-      "exportedPath": "lib/media/radlands-5.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-6.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 496495,
-      "exportedPath": "lib/media/radlands-6.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-7.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 442958,
-      "exportedPath": "lib/media/radlands-7.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-8.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 410786,
-      "exportedPath": "lib/media/radlands-8.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-9.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 520216,
-      "exportedPath": "lib/media/radlands-9.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-10.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1162856,
-      "exportedPath": "lib/media/radlands-10.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-11.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 18387,
-      "exportedPath": "lib/media/radlands-11.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-12.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 21416,
-      "exportedPath": "lib/media/radlands-12.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-13.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 12399,
-      "exportedPath": "lib/media/radlands-13.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-14.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 3701,
-      "exportedPath": "lib/media/radlands-14.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-15.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 9533,
-      "exportedPath": "lib/media/radlands-15.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-16.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 9044,
-      "exportedPath": "lib/media/radlands-16.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-17.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 13295,
-      "exportedPath": "lib/media/radlands-17.png",
-      "dependencies": []
-    },
-    "lib/media/radlands-18.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 10277,
-      "exportedPath": "lib/media/radlands-18.png",
-      "dependencies": []
-    },
-    "lib/media/sky-team-1.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1387368,
-      "exportedPath": "lib/media/sky-team-1.png",
-      "dependencies": []
-    },
-    "lib/media/sky-team-2.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 45518,
-      "exportedPath": "lib/media/sky-team-2.png",
-      "dependencies": []
-    },
-    "lib/media/sky-team-3.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 632049,
-      "exportedPath": "lib/media/sky-team-3.png",
-      "dependencies": []
-    },
-    "lib/media/sky-team-4.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 88731,
-      "exportedPath": "lib/media/sky-team-4.png",
-      "dependencies": []
-    },
-    "lib/media/sky-team-5.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 470259,
-      "exportedPath": "lib/media/sky-team-5.png",
-      "dependencies": []
-    },
-    "lib/media/sky-team-6.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 439540,
-      "exportedPath": "lib/media/sky-team-6.png",
-      "dependencies": []
-    },
-    "lib/media/sky-team-7.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 489055,
-      "exportedPath": "lib/media/sky-team-7.png",
-      "dependencies": []
-    },
-    "lib/media/sky-team-8.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 167078,
-      "exportedPath": "lib/media/sky-team-8.png",
-      "dependencies": []
-    },
-    "lib/media/sky-team-9.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 41857,
-      "exportedPath": "lib/media/sky-team-9.png",
-      "dependencies": []
-    },
-    "lib/media/under-falling-skies-1.png": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 1783172,
-      "exportedPath": "lib/media/under-falling-skies-1.png",
-      "dependencies": []
-    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 17994,
+      "modifiedTime": 1737818935144,
+      "sourceSize": 3966,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1737810519404,
-      "sourceSize": 4091,
+      "modifiedTime": 1737818935144,
+      "sourceSize": 530,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 26090,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 41466,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 259,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 33969,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1737810519404,
+      "modifiedTime": 1737818935144,
       "sourceSize": 6213,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
