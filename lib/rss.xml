@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 25 Jan 2025 17:35:54 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 25 Jan 2025 17:35:45 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Case №1]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 25 Jan 2025 17:38:15 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 25 Jan 2025 17:38:15 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Radlands]]></title><description><![CDATA[ 
+ <br><br><br><br>Rules
+<br>
+<a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-radlands.-ukranske-vidannja-ukranskou-movou-46031108.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-radlands.-ukranske-vidannja-ukranskou-movou-46031108.pdf" target="_blank">Rulebook</a>
+<br><br><br>Гравці сідають за стіл один напроти одного. Будь-хто з них повинен виконати такі кроки:<br>
+<br>Перетасувати й покласти на центр стола колоду табору (A).
+<br>Покласти на центр стола додаткові жетони води 💧 (чорні) (Б).
+<br>Перетасувати й покласти на центр стола основну колоду, залишивши біля неї місце для скиду (В).
+<br><img alt="Radlands-1.png" src="lib\media\radlands-1.png" style="width: 400px; max-width: 100%;"><br><br>Тепер ви разом зі суперником готуєте власні ігрові зони. Для цього виконайте такі кроки:<br>
+<br>
+Візьміть по 6 карт із колоди табору.
+У першій партії
+радимо вам не брати карти з колоди, а відразу дати гравцям:
+
+<br>"Гараж", "Рейкотрон" і "Склад припасів"
+<br>"Реактор", "Гармата" й "Тотем перемоги"
+
+
+
+<br>
+У своїй ігровій зоні викладіть у ряд 3 вибрані карти таборів долілиць (Г).<br>
+Залиште місце для 2 карт перед кожним табором, куди ви пізніше гратимете карти людей.<br>
+Обидва гравці перевартають карти таборів горілиць (решта карт таборів і колода таборів більше не знадобляться)
+
+<br>
+Візьміть карти "Резервуар" і "Грабіжники" та покладіть їх горілиць у свою ігрову зону (Д)
+
+<br>
+Сформуйте у своїй ігровій зоні запас із 3 жетонів води 💧 (білих) (Е).
+
+<br>
+Візьміть карту-пам’ятку (Ж)
+
+<br>
+Візьміть з основної колоди на руку (И) кількість карт, що дорівнює сумі чисел у чорних прямокутниках на ваших картах таборів (К).
+
+<br><br><br><br>
+<br>чорна рамка
+<br>скільки карт (A) її власник бере на руку на початку гри
+<br>можливі ефекти (Б) й [ ознаки ] (В) цієї карти.
+<br> <img alt="Radlands-5.png" src="lib\media\radlands-5.png" style="width: 200px; max-width: 100%;"><br><br>
+<br>біла рамка
+<br>граються у стовпці перед своїми картами табору.
+<br>ціна у воді (Г)
+<br>ефект утилізації (Д)
+<br>можливі ефекти (Б) та [ ознаки ] (В). |
+<br><img alt="Radlands-6.png" src="lib\media\radlands-6.png" style="width: 200px; max-width: 100%;"><br><br>
+<br>[ текст в зелених дужках
+<br>указано на деяких картах табору й людей (В)
+<br>ознаки всіх людей активні, якщо вони непошкоджені на цю мить.
+<br>ознаки таборів (навіть пошкоджених) завжди активні, поки вони не зруйновані.
+<br><img alt="Radlands-7.png" src="lib\media\radlands-7.png" style="width: 200px; max-width: 100%;"><br><br>
+<br>закрита карта (узята з верху колоди)
+<br>не має здатностей
+<br>коли панк зазнає пошкоджень, його негайно знищують
+<br>не дивлячись, карта повертається на верх колоди долілиць
+<br><img alt="Radlands-8.png" src="lib\media\radlands-8.png" style="width: 200px; max-width: 100%;"><br><br>
+<br>жовто-чорна смугаста рамка
+<br>ціна у воді (Г)
+<br>ефект утилізації (Д)
+<br>ефект події (Е)
+<br>символ 💣 з числом (Ж), що визначає місце у черзі подій (И) після розіграшу
+<br><img alt="Radlands-9.png" src="lib\media\radlands-9.png" style="width: 200px; max-width: 100%;"><br><br><br><img alt="Radlands-10.png" src="lib\media\radlands-10.png" style="width: 500px; max-width: 100%;"><br><br><br><br><br>Щоб визначити першого гравця, підкиньте жетон води. Якщо він упаде стороною з символом води (💧), то першим гравцем стаєте ви. Якщо ні — суперник.<br>Починаючи з першого гравця, виконуйте ходи по черзі, поки хтось із вас не знищить усі табори суперника.<br>
+У свій хід ви розігруєте такі 3 фази в указаному порядку:<br><br>
+<br>Якщо на місці 1💣 у вашій черзі є карта події, застосуйте її ефект і скиньте.
+<br>Просуньте всі події в черзі на 1 місце вперед (у напрямку до суперника).
+<br><br>
+<br>Візьміть карту 🎴
+<br>Візьміть свої 3 жетони води 💧 для використання в цей хід (жетони ніколи не зберігаються після попередніх ходів)
+Виняток
+ Якщо ви перший гравець, то у свій перший хід візьміть 1 жетон води 💧 .
+
+
+<br><br>Виконайте будь-які з наведених дій у довільному порядку будь-яку кількість разів:<br>
+<br>Зіграти карту
+<br>Узяти карту
+<br>Утилізувати карту
+<br>Узяти "Резервуар"
+<br>Активувати ефект
+<br>Безплатні карти й ефекти. Деякі карти й ефекти не потребують оплати жетонами води. Коли ви активуєте безплатний ефект або граєте безплатну карту, то щоразу позначайте, що вона не готова, додатковим жетоном води стороною з рожевим тире ➖.<br>Завершення ходу. Завершивши виконання дій, поверніть усі жетони води (білі та чорні) у відповідні запаси.<br><br><br><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\radlands.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Radlands.md</guid><pubDate>Sat, 25 Jan 2025 17:37:45 GMT</pubDate><enclosure url="lib\media\radlands-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\radlands-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Case №1]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br>Приготування до гри
 
@@ -143,7 +222,7 @@
 <br>Гораціо Довсон продав годинника Маркусу Овензу
 <br><br>
 <br>можливо на чеку є відбитки
-]]></description><link>100-life\130-hobby\board-games\detective\case-№1.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Detective/Case №1.md</guid><pubDate>Wed, 22 Jan 2025 17:06:28 GMT</pubDate><enclosure url="https://antaresdatabase.com/data/images/en/KurtBlutholz.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://antaresdatabase.com/data/images/en/KurtBlutholz.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Detective MC - №2]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\detective\case-№1.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Detective/Case №1.md</guid><pubDate>Wed, 22 Jan 2025 17:06:28 GMT</pubDate><enclosure url="https://antaresdatabase.com/data/images/en/KurtBlutholz.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://antaresdatabase.com/data/images/en/KurtBlutholz.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Detective MC - №2]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br>Приготування до гри
 
@@ -596,7 +675,7 @@ There is an Absent feature. Mark a character as absent by opening the <a data-to
 <br>p: open party sheet
 <br>g: open global map
 <br>c: open scenario chart
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\miscellaneous.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Miscellaneous.md</guid><pubDate>Thu, 23 Jan 2025 18:59:53 GMT</pubDate><enclosure url="lib\media\miscellaneous-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\miscellaneous-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Scenario 0 - Introduction]]></title><description><![CDATA[ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\miscellaneous.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Miscellaneous.md</guid><pubDate>Thu, 23 Jan 2025 18:59:53 GMT</pubDate><enclosure url="lib\media\miscellaneous-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\miscellaneous-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Scenario 0 - Introduction]]></title><description><![CDATA[ 
  <br><br><br><br>Було б чудово повернутись до “Сплячого Лева”. Після двох тижнів блукання вздовж “Стоячої Річки” в пошуках зниклого коваля, ви майже відчуваєте тепло вогнища затишної таверни як тільки на горизонті з’явились стіни “Похмурої Гавані” Ви майже вдома<br>Якщо говорити відверто, справа не тільки в ковалі. Останнім часом тривожна кількість людей з бідніших районів міста раптово зникли. Зазвичай, ніхто цього не помічає. Просто ще одна бідна душа, забута в закутках цивілізації. Ковалева дружина, Сенді, навпроти, змогла нашкребти достатньо грошей, щоб найняти вас для пошуку її чоловіка. Ви не знаєте звідки ці гроші, втім, ви впевнені що вони не могли дістатись легко, що викликає подвійний біль при поверненні додому з пустими руками, без жодного результату.<br>Насправді, Сенді заплатила небагато, але ви “Щелепи Лева”, одна з найвідоміших груп найманців в цьому богом забутому містечку. Звісно, зробити благодійну справу один раз на вічність нікому не завадить. В решті решт, для того щоб отримувати достойну роботу, треба підтримувати репутацію. Це єдина причина чому ви маєте поринути в цю справу і не можете повернутись з нічим, але хоча б з мозолями на ногах.<br>Також, вам точно не варто називати її вдовою, хоча б в її присутності, принаймні поки доля коваля не підтвердиться. З іншого боку, враховуючи що ніхто із зниклих не повернувся, перспективи похмурі.<br>Як тільки ці бадьорі думки залишили вашу голову, ви помічаєте рухи попереду і одразу ж дістаєте зброю. Через те що сонце сховалось за горизонт, ви не можете розгледіти деталей, але ясно бачите хиткі барикади, що блокують дорогу далі. Ви обережно просуваєтесь вперед, як раптом позаду вас вибігають вермлінги, погрожуючи вам тупими мечами і гострими палицями.<br>Ви вимушені підмітити, що досить втомились після денних пошуків, однак, ці щури-переростки безумовно обрали не ту групу для грабунку. Ви група “Щелепи Лева” і вкінці кінців ви завжди готові показати що існує тільки один результат для будь-кого хто посміє вам погрожувати.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\scenario-0-introduction.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 0 - Introduction.md</guid><pubDate>Wed, 20 Nov 2024 10:03:42 GMT</pubDate></item><item><title><![CDATA[Scenario 1]]></title><description><![CDATA[ 
  <br><br><br><br>Дорога до “Похмурої Гавані” була довгою. А тепер, коли всі хочуть теплої їжі і м’якого ліжка, на вас напали вермлінги, від чого ви лютуєте. Ви люті настільки, що готові вбити цих брудних створінь перш ніж впадете від втоми.<br>Звісно, вермлінги мають інший план. Вони швидко перемовляються, бажаючи отримати ваші гроші і м’ясо на ваших кістках. Мерзенні штуки, реально. Краще ігнорувати їхні балачки і закінчити з ними чимшвидше.<br><br>Ви витираєте кров останнього вермлінга зі свого обличчя, а ваші думки повертаються до “Сплячого Лева”. В таверні вже точно готове рагу. Воно буде ідеально теплим і заспокіливим, прямо за воротами, так близько, ви нарешті зможете скуштувати його …<br>Раптом, вам спадає інакша думка. Для купки вермлінгів це дуже дивно, навіть нахабно, грабувати поряд з містом. Чи причетні вони до серії зникнень? Це малоймовірне припущення, але варте розслідування, особливо беручи до уваги що ця засідка не виглядає їх звичайним видом діяльності. Тут неподалік точно є гніздо і можливо вам пощастить отримати більше інформації про зниклого коваля.<br>І скарби. Було б чудово знайти скарби.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\scenario-1.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 1.md</guid><pubDate>Wed, 20 Nov 2024 10:03:42 GMT</pubDate></item><item><title><![CDATA[Scenario 2]]></title><description><![CDATA[ 
  <br><br><br><br>Сліди було добре помітні. Вермлінги ніколи не відрізнялись непомітністю. Ви прослідували за подряпинами і слідами, залишеними після волочіння тіл, поки не опинились під стінами міста.<br>Сонце ледь світить, але тут точно щось не так. Це не просто тінь на нижній частині стіни. Це діра. Вермлінги зробили собі гніздо самотужки проривши стіну. Напевно на це пішло багато часу.<br>Пригнувшись, ви спробували підкрастись ближче, але були помічені, напевно вони мають охоронців на вході. Ви чуєте пронизливий вереск, після чого з темряви з’являються інші вермлінги, розмахуючи їхньою дурною, погано зробленою зброєю.<br>У вас немає іншого вибору як захищатись. На щастя, ви знайшли в собі сили для цієї сутички, але вам точно знадобиться довгий відпочинок у ванній.<br><br>Після зачистки цього смердючого гнізда від жалюгідних створінь, ви обшукуєте кожен закуток. Міські вартові точно захочать про все дізнатись — тунелі вермлінгів в стінах міста не можуть бути безпечними. Відбиватись від таких набігів доволі складна справа.<br>Пізніше, під згнилими дерев’яними дошками, ви все-таки знаходите несподівано велику купу золота. Копирсаючись в скарбах, ви знаходите дивну записку. На ній грубо нашкрябані деталі ділових зустрічей між вермлінгами і кимось на ім’я Роланд. Вочевидь, в обмін на свіжі трупи, Роланд платив золотом. Судячи з кількості залишків, вермлінги змогли вбити декількох людей, до того як ви знищили їх.<br>Це найкраща підказка, що у вас є, тому настав час розшукати цього Роланда. Після відпочинку у «Сплячому Леві» звісно.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\scenario-2.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenario 2.md</guid><pubDate>Wed, 20 Nov 2024 10:03:42 GMT</pubDate></item><item><title><![CDATA[Scenario 3]]></title><description><![CDATA[ 
@@ -699,7 +778,7 @@ There is an Absent feature. Mark a character as absent by opening the <a data-to
 <br>дадати +1 до всіх атак, націленик на фігурку
 <br><a data-href="#Лікування (дія)" href="about:blank#Лікування_(дія)" class="internal-link" target="_self" rel="noopener nofollow">Лікування (дія)</a> знімає "ОТРУЄННЯ", але НЕ збільшує кількість ОЗ
 <br>якщо фігурка має "ОТРУЄННЯ" + "<a data-href="#Важка Рана" href="about:blank#Важка_Рана" class="internal-link" target="_self" rel="noopener nofollow">Важка Рана</a>", лікування знімає обидва стани, але НЕ збільшує кількість ОЗ
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\shortened-glossary.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Shortened Glossary.md</guid><pubDate>Fri, 24 Jan 2025 11:40:33 GMT</pubDate><enclosure url="lib\media\shortened-glossary-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\shortened-glossary-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[7 Wonders]]></title><description><![CDATA[ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl\shortened-glossary.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL/Shortened Glossary.md</guid><pubDate>Fri, 24 Jan 2025 11:40:33 GMT</pubDate><enclosure url="lib\media\shortened-glossary-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\shortened-glossary-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[7 Wonders]]></title><description><![CDATA[ 
  <br><br><br>
 <a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/5380/7wonders_ua_igromag.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/5380/7wonders_ua_igromag.pdf" target="_blank">Rulebook</a>
 <br><br><br><br>]]></description><link>100-life\130-hobby\board-games\7-wonders.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/7 Wonders.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[Arkham Horror LCG]]></title><description><![CDATA[ 
@@ -883,7 +962,7 @@ per game.) may only be performed once for the group of Investigators.
 <br>Перемагає найбагатший гравець<br>
 <br>У разі нічиєї перемагає гравець, що отримав найменшу кількість карт куль.<br>
 Якщо таких гравців кілька, то вони ділять перемогу!
-]]></description><link>100-life\130-hobby\board-games\colt-express.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Colt Express.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-colt-express-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-colt-express-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Detective MC]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\colt-express.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Colt Express.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-colt-express-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-colt-express-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Detective MC]]></title><description><![CDATA[ 
  <br><br><br>Rules
 <br>
 <a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-detektiv.-suchasne-rozslduvannja-detective-a-modern-crime-board-game-ukranskou-movou-25549002.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-detektiv.-suchasne-rozslduvannja-detective-a-modern-crime-board-game-ukranskou-movou-25549002.pdf" target="_blank">Rulebook</a><br>
@@ -1025,7 +1104,7 @@ per game.) may only be performed once for the group of Investigators.
 <br>кількість води
 <br>кількість загонів у гарнізоні.
 
-]]></description><link>100-life\130-hobby\board-games\dune-imperium.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Dune Imperium.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-dune-imperium-2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-dune-imperium-2.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dune. A Game of Conquest and Diplomacy]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\dune-imperium.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Dune Imperium.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-dune-imperium-2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-dune-imperium-2.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dune. A Game of Conquest and Diplomacy]]></title><description><![CDATA[ 
  <br><br><br>Rules
 ]<br>
 <a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-duna-gra-pro-vynu-ta-diplomatu-dune-a-game-of-conquest-and-diplomacy-ukranskou-movou-8322199.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-duna-gra-pro-vynu-ta-diplomatu-dune-a-game-of-conquest-and-diplomacy-ukranskou-movou-8322199.pdf" target="_blank">Rulebook</a>
@@ -1265,7 +1344,7 @@ Note
 
 <br>Warning
 Перемогти раніше, ніж в 3 ході - неможливо !
-]]></description><link>100-life\130-hobby\board-games\dune.-a-game-of-conquest-and-diplomacy.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Dune. A Game of Conquest and Diplomacy.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Five tribes]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\dune.-a-game-of-conquest-and-diplomacy.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Dune. A Game of Conquest and Diplomacy.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Five tribes]]></title><description><![CDATA[ 
  <br><br><br>Rules
 <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=hfvDro2ecFw" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=hfvDro2ecFw" target="_blank">Five Tribes - How To Play - YouTube</a><br>
 <a data-tooltip-position="top" aria-label="https://desktopgames.com.ua/games/6428/five_tribes_rules_ua.pdf" rel="noopener nofollow" class="external-link" href="https://desktopgames.com.ua/games/6428/five_tribes_rules_ua.pdf" target="_blank">Rulebook</a>
@@ -1403,7 +1482,7 @@ Note
 <br>5 ПО за кожну Палац на вашому Тайлі
 <br>Сума ПО ваших Тайлів
 
-]]></description><link>100-life\130-hobby\board-games\five-tribes.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Five tribes.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-five-tribes-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-five-tribes-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gloomhaven JotL]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\five-tribes.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Five tribes.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-five-tribes-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-five-tribes-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gloomhaven JotL]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br><a data-tooltip-position="top" aria-label="https://gloomhaven-secretary.de/" rel="noopener nofollow" class="external-link" href="https://gloomhaven-secretary.de/" target="_blank">Gloomhaven Secretariat</a> - has features of storyline
 <br><a data-tooltip-position="top" aria-label="https://gloomhaven-storyline.com/#/" rel="noopener nofollow" class="external-link" href="https://gloomhaven-storyline.com/#/" target="_blank">Gloomhaven storyline</a>
@@ -1605,7 +1684,7 @@ Note
 
 <br>Монстри завжди використовують елементи. Усі монстри одного типу отримують перевагу.
 <br>Щити не блокують пошкодження від пасток.
-<br><br>]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL.md</guid><pubDate>Sat, 25 Jan 2025 01:53:47 GMT</pubDate><enclosure url="lib\media\bg-gloomhaven-jotl-6.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-gloomhaven-jotl-6.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[It's a Wonderful World]]></title><description><![CDATA[ 
+<br><br>]]></description><link>100-life\130-hobby\board-games\gloomhaven-jotl.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Gloomhaven JotL.md</guid><pubDate>Sat, 25 Jan 2025 01:53:47 GMT</pubDate><enclosure url="lib\media\bg-gloomhaven-jotl-6.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-gloomhaven-jotl-6.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[It's a Wonderful World]]></title><description><![CDATA[ 
  <br><br><br><br><img alt="It's a Wonderful World-7.png" src="lib\media\it's-a-wonderful-world-7.png"><br><br>Rules
 <br>
 <a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-cey-divovizhniy-svt-its-a-wonderful-world-ukranskou-movou-34737244.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-cey-divovizhniy-svt-its-a-wonderful-world-ukranskou-movou-34737244.pdf" target="_blank">Rulebook</a>
@@ -1710,7 +1789,7 @@ Note
 <br>скиньте всі кубики ресурсів та жетони, які вклали на скинуту карту
 <br><br>Гра закінчується після закінчення 4-го раунду<br><br>Заувага
 Кубики кристалію та недобудовані карти розвитку не приносять переможних балів у кінці гри.
-<br><br>У грі для 2-х гравців роздайте кожному гравцю по 10 карток розвитку (замість 7)<br>Відбір карт проходить за звичайними правилами, але коли в гравців залишиться по 3 карти на руках - вони мають їх скинути (ніхто не отримує бонус за переробку при скиданні цих карт). Таким чином кожен із гравців отримає по 7 карт у своїй зоні для відібраних карт.<br>Усі інші правила лишаються без змін.<br>]]></description><link>100-life\130-hobby\board-games\it&apos;s-a-wonderful-world.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/It&apos;s a Wonderful World.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\it&apos;s-a-wonderful-world-9.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\it&apos;s-a-wonderful-world-9.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Keep Heroes Out]]></title><description><![CDATA[ 
+<br><br>У грі для 2-х гравців роздайте кожному гравцю по 10 карток розвитку (замість 7)<br>Відбір карт проходить за звичайними правилами, але коли в гравців залишиться по 3 карти на руках - вони мають їх скинути (ніхто не отримує бонус за переробку при скиданні цих карт). Таким чином кожен із гравців отримає по 7 карт у своїй зоні для відібраних карт.<br>Усі інші правила лишаються без змін.<br>]]></description><link>100-life\130-hobby\board-games\it's-a-wonderful-world.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/It's a Wonderful World.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\it's-a-wonderful-world-9.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\it's-a-wonderful-world-9.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Keep Heroes Out]]></title><description><![CDATA[ 
  <br><br><br>
 <br><a data-tooltip-position="top" aria-label="https://boardgamegeek.com/thread/3224514/general-compiled-faq-not-official-to-eventually-cr" rel="noopener nofollow" class="external-link" href="https://boardgamegeek.com/thread/3224514/general-compiled-faq-not-official-to-eventually-cr" target="_blank">General compiled FAQ</a>
 <br><a data-tooltip-position="top" aria-label="https://www.kickstarter.com/projects/luisbrueh/keep-the-heroes-out/posts/3673170?ref=bggforums" rel="noopener nofollow" class="external-link" href="https://www.kickstarter.com/projects/luisbrueh/keep-the-heroes-out/posts/3673170?ref=bggforums" target="_blank">Keep the Heroes Out by Luis Brueh » The Dungeon Tenant Survival Guide!</a>
@@ -1826,86 +1905,7 @@ Warning
 Якщо розіграно останню карту в другій хвилі (і скарб вартістю 4 не було загарбано) - гравці здобувають перемогу
 <br>Поразка
 Якщо будь-якої миті скарб вартістю 4 загарбають - гравці негайно програють
-]]></description><link>100-life\130-hobby\board-games\keep-heroes-out.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Keep Heroes Out.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-keep-heroes-out-3.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\bg-keep-heroes-out-3.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Radlands]]></title><description><![CDATA[ 
- <br><br><br><br>Rules
-<br>
-<a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-radlands.-ukranske-vidannja-ukranskou-movou-46031108.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-radlands.-ukranske-vidannja-ukranskou-movou-46031108.pdf" target="_blank">Rulebook</a>
-<br><br><br>Гравці сідають за стіл один напроти одного. Будь-хто з них повинен виконати такі кроки:<br>
-<br>Перетасувати й покласти на центр стола колоду табору (A).
-<br>Покласти на центр стола додаткові жетони води 💧 (чорні) (Б).
-<br>Перетасувати й покласти на центр стола основну колоду, залишивши біля неї місце для скиду (В).
-<br><img alt="Radlands-1.png" src="lib\media\radlands-1.png" style="width: 400px; max-width: 100%;"><br><br>Тепер ви разом зі суперником готуєте власні ігрові зони. Для цього виконайте такі кроки:<br>
-<br>
-Візьміть по 6 карт із колоди табору.
-У першій партії
-радимо вам не брати карти з колоди, а відразу дати гравцям:
-
-<br>"Гараж", "Рейкотрон" і "Склад припасів"
-<br>"Реактор", "Гармата" й "Тотем перемоги"
-
-
-
-<br>
-У своїй ігровій зоні викладіть у ряд 3 вибрані карти таборів долілиць (Г).<br>
-Залиште місце для 2 карт перед кожним табором, куди ви пізніше гратимете карти людей.<br>
-Обидва гравці перевартають карти таборів горілиць (решта карт таборів і колода таборів більше не знадобляться)
-
-<br>
-Візьміть карти "Резервуар" і "Грабіжники" та покладіть їх горілиць у свою ігрову зону (Д)
-
-<br>
-Сформуйте у своїй ігровій зоні запас із 3 жетонів води 💧 (білих) (Е).
-
-<br>
-Візьміть карту-пам’ятку (Ж)
-
-<br>
-Візьміть з основної колоди на руку (И) кількість карт, що дорівнює сумі чисел у чорних прямокутниках на ваших картах таборів (К).
-
-<br><br><br><br>
-<br>чорна рамка
-<br>скільки карт (A) її власник бере на руку на початку гри
-<br>можливі ефекти (Б) й [ ознаки ] (В) цієї карти.
-<br> <img alt="Radlands-5.png" src="lib\media\radlands-5.png" style="width: 200px; max-width: 100%;"><br><br>
-<br>біла рамка
-<br>граються у стовпці перед своїми картами табору.
-<br>ціна у воді (Г)
-<br>ефект утилізації (Д)
-<br>можливі ефекти (Б) та [ ознаки ] (В). |
-<br><img alt="Radlands-6.png" src="lib\media\radlands-6.png" style="width: 200px; max-width: 100%;"><br><br>
-<br>[ текст в зелених дужках
-<br>указано на деяких картах табору й людей (В)
-<br>ознаки всіх людей активні, якщо вони непошкоджені на цю мить.
-<br>ознаки таборів (навіть пошкоджених) завжди активні, поки вони не зруйновані.
-<br><img alt="Radlands-7.png" src="lib\media\radlands-7.png" style="width: 200px; max-width: 100%;"><br><br>
-<br>закрита карта (узята з верху колоди)
-<br>не має здатностей
-<br>коли панк зазнає пошкоджень, його негайно знищують
-<br>не дивлячись, карта повертається на верх колоди долілиць
-<br><img alt="Radlands-8.png" src="lib\media\radlands-8.png" style="width: 200px; max-width: 100%;"><br><br>
-<br>жовто-чорна смугаста рамка
-<br>ціна у воді (Г)
-<br>ефект утилізації (Д)
-<br>ефект події (Е)
-<br>символ 💣 з числом (Ж), що визначає місце у черзі подій (И) після розіграшу
-<br><img alt="Radlands-9.png" src="lib\media\radlands-9.png" style="width: 200px; max-width: 100%;"><br><br><br><img alt="Radlands-10.png" src="lib\media\radlands-10.png" style="width: 500px; max-width: 100%;"><br><br><br><br><br>Щоб визначити першого гравця, підкиньте жетон води. Якщо він упаде стороною з символом води (💧), то першим гравцем стаєте ви. Якщо ні — суперник.<br>Починаючи з першого гравця, виконуйте ходи по черзі, поки хтось із вас не знищить усі табори суперника.<br>
-У свій хід ви розігруєте такі 3 фази в указаному порядку:<br><br>
-<br>Якщо на місці 1💣 у вашій черзі є карта події, застосуйте її ефект і скиньте.
-<br>Просуньте всі події в черзі на 1 місце вперед (у напрямку до суперника).
-<br><br>
-<br>Візьміть карту 🎴
-<br>Візьміть свої 3 жетони води 💧 для використання в цей хід (жетони ніколи не зберігаються після попередніх ходів)
-Виняток
- Якщо ви перший гравець, то у свій перший хід візьміть 1 жетон води 💧 .
-
-
-<br><br>Виконайте будь-які з наведених дій у довільному порядку будь-яку кількість разів:<br>
-<br>Зіграти карту
-<br>Узяти карту
-<br>Утилізувати карту
-<br>Узяти "Резервуар"
-<br>Активувати ефект
-<br>Безплатні карти й ефекти. Деякі карти й ефекти не потребують оплати жетонами води. Коли ви активуєте безплатний ефект або граєте безплатну карту, то щоразу позначайте, що вона не готова, додатковим жетоном води стороною з рожевим тире ➖.<br>Завершення ходу. Завершивши виконання дій, поверніть усі жетони води (білі та чорні) у відповідні запаси.<br><br><br><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\radlands.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Radlands.md</guid><pubDate>Sat, 25 Jan 2025 17:35:08 GMT</pubDate><enclosure url="lib\media\radlands-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\radlands-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sky Team]]></title><description><![CDATA[ 
+]]></description><link>100-life\130-hobby\board-games\keep-heroes-out.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Keep Heroes Out.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\bg-keep-heroes-out-3.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\bg-keep-heroes-out-3.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sky Team]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br><a data-tooltip-position="top" aria-label="https://boardgamegeek.com/filepage/276012/sky-team-soundtrack-20-mins" rel="noopener nofollow" class="external-link" href="https://boardgamegeek.com/filepage/276012/sky-team-soundtrack-20-mins" target="_blank">Sky Team Soundtrack 20 mins</a>
 <br>[ ]
@@ -1980,7 +1980,7 @@ Warning
 <br>ви повинні просунути трек підльоту
 
 ви пролітаєте повз аеропорт і зазнаєте поразки!
-<br><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\sky-team.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Sky Team.md</guid><pubDate>Sat, 25 Jan 2025 01:48:30 GMT</pubDate><enclosure url="lib\media\sky-team-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\sky-team-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Small World]]></title><description><![CDATA[ 
+<br><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\sky-team.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Sky Team.md</guid><pubDate>Sat, 25 Jan 2025 01:48:30 GMT</pubDate><enclosure url="lib\media\sky-team-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\sky-team-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Small World]]></title><description><![CDATA[ 
  <br><br><br>Rules
 <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=BMxt7OVj_lI&amp;t=506s&amp;ab_channel=WatchItPlayed" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=BMxt7OVj_lI&amp;t=506s&amp;ab_channel=WatchItPlayed" target="_blank">Small World - How To Play - YouTube</a><br>
 Rulebook:
@@ -2090,4 +2090,4 @@ Rulebook:
 ]]></description><link>100-life\130-hobby\board-games\the-loop.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/The Loop.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate></item><item><title><![CDATA[Under Falling Skies]]></title><description><![CDATA[ 
  <br><br><br>Rules
 [Rulebook]
-<br><br><br><br><br><br><img alt="Under Falling Skies-1.png" src="lib\media\under-falling-skies-1.png"><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\under-falling-skies.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Under Falling Skies.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\under-falling-skies-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\under-falling-skies-1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<br><br><br><br><br><br><img alt="Under Falling Skies-1.png" src="lib\media\under-falling-skies-1.png"><br><br>Dataview: No results to show for table query.Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\under-falling-skies.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Under Falling Skies.md</guid><pubDate>Thu, 23 Jan 2025 20:59:57 GMT</pubDate><enclosure url="lib\media\under-falling-skies-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\under-falling-skies-1.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
