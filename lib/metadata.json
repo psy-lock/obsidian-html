@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian",
-  "lastExport": 1737828001029,
+  "lastExport": 1737899593332,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon active-line fancy-code h2-underline",
   "useCustomHeadContent": false,
@@ -25,6 +25,7 @@
     "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Scenarios List.md",
     "100 Life/130 Hobby/Board Games/Gloomhaven JotL/Shortened Glossary.md",
     "100 Life/130 Hobby/Board Games/7 Wonders.md",
+    "100 Life/130 Hobby/Board Games/7 Wonders Duel.md",
     "100 Life/130 Hobby/Board Games/Arkham Horror LCG.md",
     "100 Life/130 Hobby/Board Games/Arkham Horror LCG Common Mistakes Compendium.md",
     "100 Life/130 Hobby/Board Games/Carcassoane.md",
@@ -42,6 +43,21 @@
     "100 Life/130 Hobby/Board Games/Terraforming Mars.md",
     "100 Life/130 Hobby/Board Games/The Loop.md",
     "100 Life/130 Hobby/Board Games/Under Falling Skies.md",
+    "lib/media/7-wonders-duel-1.png",
+    "lib/media/7-wonders-duel-2.png",
+    "lib/media/bg-gloomhaven-jotl-6.png",
+    "lib/media/bg-gloomhaven-jotl-7.png",
+    "lib/media/bg-gloomhaven-jotl-1.jpg",
+    "lib/media/bg-gloomhaven-jotl-2.jpg",
+    "lib/media/bg-gloomhaven-jotl-3.jpg",
+    "lib/media/bg-gloomhaven-jotl-4.jpg",
+    "lib/media/bg-gloomhaven-jotl-5.jpg",
+    "lib/media/bg-gloomhaven-jotl-6.jpg",
+    "lib/media/bg-gloomhaven-jotl-1.png",
+    "lib/media/bg-gloomhaven-jotl-2.png",
+    "lib/media/bg-gloomhaven-jotl-3.png",
+    "lib/media/bg-gloomhaven-jotl-4.png",
+    "lib/media/bg-gloomhaven-jotl-5.png",
     "lib/media/radlands-1.png",
     "lib/media/radlands-4.png",
     "lib/media/radlands-3.png",
@@ -60,6 +76,14 @@
     "lib/media/radlands-16.png",
     "lib/media/radlands-17.png",
     "lib/media/radlands-18.png",
+    "lib/media/radlands-19.png",
+    "lib/media/radlands-20.png",
+    "lib/media/radlands-21.png",
+    "lib/media/radlands-22.png",
+    "lib/media/radlands-23.png",
+    "lib/media/radlands-24.png",
+    "lib/media/radlands-25.png",
+    "lib/media/radlands-26.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -114,19 +138,6 @@
     "lib/media/bg-dune.-a-game-of-conquest-and-diplomacy-rules-1.png",
     "lib/media/bg-five-tribes-1.png",
     "lib/media/bg-five-tribes-2.png",
-    "lib/media/bg-gloomhaven-jotl-6.png",
-    "lib/media/bg-gloomhaven-jotl-7.png",
-    "lib/media/bg-gloomhaven-jotl-1.jpg",
-    "lib/media/bg-gloomhaven-jotl-2.jpg",
-    "lib/media/bg-gloomhaven-jotl-3.jpg",
-    "lib/media/bg-gloomhaven-jotl-4.jpg",
-    "lib/media/bg-gloomhaven-jotl-5.jpg",
-    "lib/media/bg-gloomhaven-jotl-6.jpg",
-    "lib/media/bg-gloomhaven-jotl-1.png",
-    "lib/media/bg-gloomhaven-jotl-2.png",
-    "lib/media/bg-gloomhaven-jotl-3.png",
-    "lib/media/bg-gloomhaven-jotl-4.png",
-    "lib/media/bg-gloomhaven-jotl-5.png",
     "lib/media/it's-a-wonderful-world-9.png",
     "lib/media/it's-a-wonderful-world-11.png",
     "lib/media/it's-a-wonderful-world-10.png",
@@ -395,8 +406,8 @@
       ]
     },
     "100 Life/130 Hobby/Board Games/Gloomhaven JotL.md": {
-      "modifiedTime": 1737826545469,
-      "sourceSize": 15246,
+      "modifiedTime": 1737899593332,
+      "sourceSize": 15264,
       "exportedPath": "100-life/130-hobby/board-games/gloomhaven-jotl.html",
       "dependencies": [
         "lib/media/bg-gloomhaven-jotl-6.png",
@@ -460,8 +471,8 @@
       ]
     },
     "100 Life/130 Hobby/Board Games/Radlands.md": {
-      "modifiedTime": 1737828001029,
-      "sourceSize": 18232,
+      "modifiedTime": 1737899593332,
+      "sourceSize": 25410,
       "exportedPath": "100-life/130-hobby/board-games/radlands.html",
       "dependencies": [
         "lib/media/radlands-1.png",
@@ -481,7 +492,17 @@
         "lib/media/radlands-15.png",
         "lib/media/radlands-16.png",
         "lib/media/radlands-17.png",
-        "lib/media/radlands-18.png"
+        "lib/media/radlands-18.png",
+        "lib/media/radlands-14.png",
+        "lib/media/radlands-12.png",
+        "lib/media/radlands-19.png",
+        "lib/media/radlands-20.png",
+        "lib/media/radlands-21.png",
+        "lib/media/radlands-22.png",
+        "lib/media/radlands-23.png",
+        "lib/media/radlands-24.png",
+        "lib/media/radlands-25.png",
+        "lib/media/radlands-26.png"
       ]
     },
     "100 Life/130 Hobby/Board Games/Sky Team.md": {
@@ -659,79 +680,79 @@
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-6.png": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 3920553,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-6.png",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-7.png": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 4208823,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-7.png",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-1.jpg": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 1448303,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-1.jpg",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-2.jpg": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 1356046,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-2.jpg",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-3.jpg": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 1200926,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-3.jpg",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-4.jpg": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 1387013,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-4.jpg",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-5.jpg": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 1243362,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-5.jpg",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-6.jpg": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 1326167,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-6.jpg",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-1.png": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 954002,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-1.png",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-2.png": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 239637,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-2.png",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-3.png": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 105801,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-3.png",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-4.png": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 360118,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-4.png",
       "dependencies": []
     },
     "lib/media/bg-gloomhaven-jotl-5.png": {
-      "modifiedTime": 1737826545469,
+      "modifiedTime": 1737899593332,
       "sourceSize": 268862,
       "exportedPath": "lib/media/bg-gloomhaven-jotl-5.png",
       "dependencies": []
@@ -923,109 +944,109 @@
       "dependencies": []
     },
     "lib/media/radlands-1.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 323597,
       "exportedPath": "lib/media/radlands-1.png",
       "dependencies": []
     },
     "lib/media/radlands-4.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 44138,
       "exportedPath": "lib/media/radlands-4.png",
       "dependencies": []
     },
     "lib/media/radlands-3.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 408357,
       "exportedPath": "lib/media/radlands-3.png",
       "dependencies": []
     },
     "lib/media/radlands-2.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 868898,
       "exportedPath": "lib/media/radlands-2.png",
       "dependencies": []
     },
     "lib/media/radlands-5.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 459272,
       "exportedPath": "lib/media/radlands-5.png",
       "dependencies": []
     },
     "lib/media/radlands-6.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 496495,
       "exportedPath": "lib/media/radlands-6.png",
       "dependencies": []
     },
     "lib/media/radlands-7.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 442958,
       "exportedPath": "lib/media/radlands-7.png",
       "dependencies": []
     },
     "lib/media/radlands-8.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 410786,
       "exportedPath": "lib/media/radlands-8.png",
       "dependencies": []
     },
     "lib/media/radlands-9.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 520216,
       "exportedPath": "lib/media/radlands-9.png",
       "dependencies": []
     },
     "lib/media/radlands-10.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 1162856,
       "exportedPath": "lib/media/radlands-10.png",
       "dependencies": []
     },
     "lib/media/radlands-11.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 18387,
       "exportedPath": "lib/media/radlands-11.png",
       "dependencies": []
     },
     "lib/media/radlands-12.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 21416,
       "exportedPath": "lib/media/radlands-12.png",
       "dependencies": []
     },
     "lib/media/radlands-13.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 12399,
       "exportedPath": "lib/media/radlands-13.png",
       "dependencies": []
     },
     "lib/media/radlands-14.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 3701,
       "exportedPath": "lib/media/radlands-14.png",
       "dependencies": []
     },
     "lib/media/radlands-15.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 9533,
       "exportedPath": "lib/media/radlands-15.png",
       "dependencies": []
     },
     "lib/media/radlands-16.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 9044,
       "exportedPath": "lib/media/radlands-16.png",
       "dependencies": []
     },
     "lib/media/radlands-17.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 13295,
       "exportedPath": "lib/media/radlands-17.png",
       "dependencies": []
     },
     "lib/media/radlands-18.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 10277,
       "exportedPath": "lib/media/radlands-18.png",
       "dependencies": []
@@ -1091,195 +1112,264 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1737828001029,
-      "sourceSize": 16718,
+      "modifiedTime": 1737899593332,
+      "sourceSize": 17069,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1737828001029,
-      "sourceSize": 3204,
+      "modifiedTime": 1737899593332,
+      "sourceSize": 3276,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 26090,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 41466,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 259,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 35684,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1737828001029,
+      "modifiedTime": 1737899593332,
       "sourceSize": 6213,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "100 Life/130 Hobby/Board Games/7 Wonders Duel.md": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 1347,
+      "exportedPath": "100-life/130-hobby/board-games/7-wonders-duel.html",
+      "dependencies": [
+        "lib/media/7-wonders-duel-1.png",
+        "lib/media/7-wonders-duel-2.png"
+      ]
+    },
+    "lib/media/7-wonders-duel-1.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 1188270,
+      "exportedPath": "lib/media/7-wonders-duel-1.png",
+      "dependencies": []
+    },
+    "lib/media/7-wonders-duel-2.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 1511697,
+      "exportedPath": "lib/media/7-wonders-duel-2.png",
+      "dependencies": []
+    },
+    "lib/media/radlands-19.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 404834,
+      "exportedPath": "lib/media/radlands-19.png",
+      "dependencies": []
+    },
+    "lib/media/radlands-20.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 393782,
+      "exportedPath": "lib/media/radlands-20.png",
+      "dependencies": []
+    },
+    "lib/media/radlands-21.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 11595,
+      "exportedPath": "lib/media/radlands-21.png",
+      "dependencies": []
+    },
+    "lib/media/radlands-22.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 122514,
+      "exportedPath": "lib/media/radlands-22.png",
+      "dependencies": []
+    },
+    "lib/media/radlands-23.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 15421,
+      "exportedPath": "lib/media/radlands-23.png",
+      "dependencies": []
+    },
+    "lib/media/radlands-24.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 452314,
+      "exportedPath": "lib/media/radlands-24.png",
+      "dependencies": []
+    },
+    "lib/media/radlands-25.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 289385,
+      "exportedPath": "lib/media/radlands-25.png",
+      "dependencies": []
+    },
+    "lib/media/radlands-26.png": {
+      "modifiedTime": 1737899593332,
+      "sourceSize": 297787,
+      "exportedPath": "lib/media/radlands-26.png",
       "dependencies": []
     }
   }
