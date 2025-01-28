@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 27 Jan 2025 21:31:27 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 27 Jan 2025 21:31:17 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Case №1]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 28 Jan 2025 01:22:48 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 28 Jan 2025 01:22:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Case №1]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br>Приготування до гри
 
@@ -735,11 +735,11 @@ There is an Absent feature. Mark a character as absent by opening the <a data-to
 
 <a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pravila-nastlno-gri-7-wonders.-duel-7-chudes.-duel-ukranskou-movou-65947724.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pravila-nastlno-gri-7-wonders.-duel-7-chudes.-duel-ukranskou-movou-65947724.pdf" target="_blank">Rulebook</a><br>
 <a data-tooltip-position="top" aria-label="https://geekach.com.ua/content/files/pamjatka-nastlno-gri-7-wonders.-duel-7-chudes.-duel-ukranskou-movou-49229611.pdf" rel="noopener nofollow" class="external-link" href="https://geekach.com.ua/content/files/pamjatka-nastlno-gri-7-wonders.-duel-7-chudes.-duel-ukranskou-movou-49229611.pdf" target="_blank">Player aid</a>
-<br><br>
+<br><br><br><br>
 <br>Розмістіть поле з одного боку ігрової зони, між гравцями.
 <br>Встановіть Маркер Конфлікту на нейтральний сектор в середині поля.
-<br>Покладіть 4 Військових токена на свої місця горілиць.
-<br>Перемішайте токени Прогресу, випадковим чином візьміть 5 і покладіть їх на поле горілиць. Решту поверніть в коробку.
+<br>Покладіть 4 <a data-href="#Військові Токени" href="about:blank#Військові_Токени" class="internal-link" target="_self" rel="noopener nofollow">Військові Токени</a> на свої місця горілиць.
+<br>Перемішайте <a data-href="#Токени Прогресу" href="about:blank#Токени_Прогресу" class="internal-link" target="_self" rel="noopener nofollow">Токени Прогресу</a>, випадковим чином візьміть 5 і покладіть їх на поле горілиць. Решту поверніть в коробку.
 <br>Кожен гравець бере з банку 7 монет.
 <br><img alt="7 Wonders Duel-3.png" src="lib\media\7-wonders-duel-3.png" style="width: 500px; max-width: 100%;"><br><br>
 <br>Визначте першого гравця
@@ -768,7 +768,7 @@ There is an Absent feature. Mark a character as absent by opening the <a data-to
 <br><br>З кожної колоди Епохи<br>
 <br>поверніть у коробку по 3 карти, не дивлячись на них.
 <br>візьміть 3 випадкові карти Гільдій і, не дивлячись, додайте їх до колоди III Епохи. Решту карт Гільдій поверніть у коробку
-<br><img alt="7 Wonders Duel-5.png" src="lib\media\7-wonders-duel-5.png" style="width: 300px; max-width: 100%;"><br><br>Гра починається I Епохою, триває в II Епосі і завершується III Епохою. У разі перемоги завдяки <a data-tooltip-position="top" aria-label="Військова/Наукова Перевага" data-href="#Військова/Наукова Перевага" href="about:blank#Військова\Наукова_Перевага" class="internal-link" target="_self" rel="noopener nofollow">військовій чи науковій переваз</a>і партія відразу ж закінчується.<br><br>На початку кожної Епохи перемішайте відповідну колоду, потім викладіть 20 карт відповідно до схеми, яка є унікальною для кожної Епохи<br><img alt="7 Wonders Duel-11.png" src="lib\media\7-wonders-duel-11.png" style="width: 400px; max-width: 100%;"><br><br>
+<br><img alt="7 Wonders Duel-5.png" src="lib\media\7-wonders-duel-5.png" style="width: 200px; max-width: 100%;"><br><br>Гра починається I Епохою, триває в II Епосі і завершується III Епохою. У разі перемоги завдяки <a data-tooltip-position="top" aria-label="Військова/Наукова Перевага" data-href="#Військова/Наукова Перевага" href="about:blank#Військова\Наукова_Перевага" class="internal-link" target="_self" rel="noopener nofollow">військовій чи науковій перевазі</a> партія відразу ж закінчується.<br><br>На початку кожної Епохи перемішайте відповідну колоду, потім викладіть 20 карт відповідно до схеми, яка є унікальною для кожної Епохи<br><img alt="7 Wonders Duel-11.png" src="lib\media\7-wonders-duel-11.png" style="width: 400px; max-width: 100%;"><br><br>
 <br>Гравці ходять по черзі.
 <br>Перший гравець починає I Епоху.
 <br>У свій хід ви повинні обрати доступну карту (та, яку не перекривають інші карти) з викладених і зіграти її.
@@ -781,12 +781,13 @@ There is an Absent feature. Mark a character as absent by opening the <a data-to
 <br>Деякі Чудеса світу дозволяють вам зробити ще 1 хід. Ви починаєте новий хід після того, як відкриєте нові доступні карти.
 <br>Ефект додаткового ходу втрачається, якщо настав кінець Епохи (немає доступних для розіграшу карт)
 
-<br><br>Для спорудження Будівлі ви сплачуєте її вартість і кладете відповідну карту перед собою<br><img alt="7 Wonders Duel-10.png" src="lib\media\7-wonders-duel-10.png" style="width: 300px; max-width: 100%;"><br>Порада
+<br><br>Для <a data-tooltip-position="top" aria-label="Будівництво В &quot;7 Чудес Дуель&quot;" data-href="#Будівництво В &quot;7 Чудес Дуель&quot;" href="about:blank#Будівництво_В_&quot;7_Чудес_Дуель&quot;" class="internal-link" target="_self" rel="noopener nofollow">спорудження Будівлі</a> ви сплачуєте її вартість і кладете відповідну карту перед собою<br><img alt="7 Wonders Duel-10.png" src="lib\media\7-wonders-duel-10.png" style="width: 500px; max-width: 100%;"><br>Порада
 Для зручності групуйте Будівлі за кольорами
 <br><br>Ви скидаєте карту і берете з банку 2 монети + 1 монету за кожну жовту карту у вашому міст<br>
 <br>Скинуті карти кладуться долілиць поруч із полем.
 <br>Гравці можуть переглядати стопку скидання в будь-яку мить.
-<br><img alt="7 Wonders Duel-9.png" src="lib\media\7-wonders-duel-9.png" style="width: 300px; max-width: 100%;"><br><br>Ви оплачуєте вартість Чуда світу, потім підкладаєте карту Епохи долілиць під карту Чуда, яке зводите. Використана карта Епохи нічого не дає, вона просто показує, що Чудо світу вже збудовано<br><img alt="7 Wonders Duel-8.png" src="lib\media\7-wonders-duel-8.png" style="width: 300px; max-width: 100%;"><br>7 Чудес, не більше!
+<br><img alt="7 Wonders Duel-9.png" src="lib\media\7-wonders-duel-9.png" style="width: 300px; max-width: 100%;"><br><br>Ви оплачуєте вартість Чуда світу, потім підкладаєте карту Епохи долілиць під карту Чуда, яке зводите. Використана карта Епохи нічого не дає, вона просто показує, що Чудо світу вже збудовано<br><img alt="7 Wonders Duel-56.png" src="lib\media\7-wonders-duel-56.png" style="width: 500px; max-width: 100%;"><br>
+<img alt="7 Wonders Duel-8.png" src="lib\media\7-wonders-duel-8.png" style="width: 300px; max-width: 100%;"><br>7 Чудес, не більше!
 Щойно сьоме Чудо побудоване, восьме, яке залишилось не збудованим, відразу повертається в коробку.
 <br><br>Епоха закінчується, коли будуть зіграні всі 20 карт з її структури.<br>
 <br>Розкладіть карти наступної Епохи відповідно до схеми.
@@ -798,7 +799,9 @@ There is an Absent feature. Mark a character as absent by opening the <a data-to
 <br>Переможні бали з ваших Чудес світу.
 <br>Переможні бали з токенів Прогресу.
 <br>Міську скарбницю: кожен повний комплект з 3 монет дає 1 бал.
-<br>У разі нічиєї перемагає гравець з найбільшою кількістю балів на цивільних Будівлях (сині карти). Якщо і тут нічия, гравці ділять перемогу.<br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\7-wonders-duel.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/7 Wonders Duel.md</guid><pubDate>Mon, 27 Jan 2025 17:09:05 GMT</pubDate><enclosure url="lib\media\7-wonders-duel-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\7-wonders-duel-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Arkham Horror LCG]]></title><description><![CDATA[ 
+<br>У разі нічиєї перемагає гравець з найбільшою кількістю балів на цивільних Будівлях (сині карти). Якщо і тут нічия, гравці ділять перемогу.<br><br><br><br><br><br>Уточнення для всіх карт
+Монети беруться з банку і лише один раз – в момент будівництва карти.
+<br><br><br><br><br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\7-wonders-duel.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/7 Wonders Duel.md</guid><pubDate>Tue, 28 Jan 2025 01:21:26 GMT</pubDate><enclosure url="lib\media\7-wonders-duel-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\7-wonders-duel-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Arkham Horror LCG]]></title><description><![CDATA[ 
  <br><br><br>
 <br><a data-tooltip-position="top" aria-label="https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/" rel="noopener nofollow" class="external-link" href="https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/" target="_blank">Arkham Horror: The Card Game</a>- official website. contains a lot of useful pdf documents
 <br><a data-tooltip-position="top" aria-label="https://docs.google.com/spreadsheets/d/11HLftr5kuqZkqm64KE-XZLtzXhjRnTyUYhY_J1rACdw/edit?gid=1879849491#gid=1879849491" rel="noopener nofollow" class="external-link" href="https://docs.google.com/spreadsheets/d/11HLftr5kuqZkqm64KE-XZLtzXhjRnTyUYhY_J1rACdw/edit?gid=1879849491#gid=1879849491" target="_blank">Жах Аркгема: Карткова гра – словник</a>
@@ -2018,7 +2021,7 @@ Warning
 <br><br><br>Ви перемагаєте відразу після того, як знищите всі табори суперника.<br>
 <br>Якщо протягом гри вичерпується основна колода, перетасуйте скид і сформуйте нову колоду.
 <br>Якщо колода вичерпується вдруге, гра закінчується нічиєю.
-<br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\radlands.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Radlands.md</guid><pubDate>Mon, 27 Jan 2025 17:09:36 GMT</pubDate><enclosure url="lib\media\radlands-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\radlands-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sky Team]]></title><description><![CDATA[ 
+<br><br>Dataview: No results to show for table query.]]></description><link>100-life\130-hobby\board-games\radlands.html</link><guid isPermaLink="false">100 Life/130 Hobby/Board Games/Radlands.md</guid><pubDate>Mon, 27 Jan 2025 21:56:52 GMT</pubDate><enclosure url="lib\media\radlands-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\radlands-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sky Team]]></title><description><![CDATA[ 
  <br><br><br><br>
 <br><a data-tooltip-position="top" aria-label="https://boardgamegeek.com/filepage/276012/sky-team-soundtrack-20-mins" rel="noopener nofollow" class="external-link" href="https://boardgamegeek.com/filepage/276012/sky-team-soundtrack-20-mins" target="_blank">Sky Team Soundtrack 20 mins</a>
 <br>[ ]
